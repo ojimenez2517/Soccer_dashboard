@@ -1,0 +1,86 @@
+body{
+    background-color: #282828;
+}
+
+.medal{
+    opacity: 30%;
+    fill: #000;
+}
+
+#first-medal{
+    opacity: 30%;
+    fill: #000;
+}
+#second-medal{
+    opacity: 30%;
+    fill: #000;
+}
+#third-medal{
+    opacity: 30%;
+    fill: #000;
+}
+
+.chart-container{
+    display: flex;
+}
+
+#bar{
+    flex-grow: 1;
+}
+
+#LigaMX{
+    background-color: red;
+}
+
+#Superleague{
+    background-color: blue;
+}
+
+#Ligue1{
+    background-color: green;
+}
+
+.tabval {
+    color: white;
+    display: none;
+    padding: 100px 20px;
+    height: 100%;
+  }
+
+button {
+    background-color: #696969;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    padding: 14px 16px;
+    font-family: "Lucida Grande", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    width: 33.333%;
+  }
+
+
+text {
+    font-family: "Lucida Grande", Verdana, Geneva, Tahoma, sans-serif;
+    fill: white;
+}
+
+h1{
+    font-family: "Lucida Grande", Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#team-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.teamName{
+    font-size: 19px;
+}
+
+.teamTxt{
+    font-size: 20px;
+    font-weight: bold;
+}

@@ -1,0 +1,720 @@
+,,,,,,,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,Gls,Ast,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+1,Abner\Abner,br BRA,DF,Atl Paranaense,22,1996,4,2,217,0,1,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches
+2,Abner\Abner,br BRA,DF,Atl Paranaense,18,2000,8,6,548,0,1,0,0,0,0,0.00,0.16,0.16,0.00,0.16,Matches
+3,Adalberto\Adalberto,br BRA,DF,Fortaleza,31,1987,1,0,45,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+4,Adriano\Adriano,br BRA,DF,Atl Paranaense,34,1984,11,7,607,1,1,0,0,3,0,0.15,0.15,0.30,0.15,0.30,Matches
+5,Luiz Adriano\Luiz-Adriano,br BRA,FW,Palmeiras,31,1987,13,11,901,6,1,0,0,0,0,0.60,0.10,0.70,0.60,0.70,Matches
+6,Felipe Aguilar\Felipe-Aguilar,co COL,DF,Santos,26,1993,17,17,1436,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+7,Airton\Airton,br BRA,MF,Fluminense,28,1990,11,8,464,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+8,José Aldo\Jose-Aldo,br BRA,MF,Internacional,20,1998,1,0,8,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+9,Alecsandro\Alecsandro,br BRA,FW,CSA,37,1981,20,15,1171,2,0,0,1,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+10,Alerrandro\Alerrandro,br BRA,FW,Atlético Mineiro,19,2000,10,6,557,2,1,0,0,0,0,0.32,0.16,0.48,0.32,0.48,Matches
+11,Matheus Alessandro\Matheus-Alessandro,br BRA,FW,Fortaleza,22,1996,8,0,129,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+12,Alexander\Alexander,br BRA,GK,Vasco da Gama,19,1999,2,2,180,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+13,Alison\Alison,br BRA,MF,Santos,25,1993,23,15,1489,0,1,0,0,8,0,0.00,0.06,0.06,0.00,0.06,Matches
+14,Alisson\Alisson,br BRA,MF,Grêmio,25,1993,22,22,1737,3,6,0,0,5,0,0.16,0.31,0.47,0.16,0.47,Matches
+15,Allan\Allan,br BRA,MF,Fluminense,21,1997,28,28,2500,0,1,0,0,13,1,0.00,0.04,0.04,0.00,0.04,Matches
+16,Henrique Almeida\Henrique-Almeida,br BRA,MFFW,Chapecoense,27,1991,12,10,783,3,0,1,1,3,0,0.34,0.00,0.34,0.23,0.23,Matches
+17,Jordi Almeida\Jordi-Almeida,br BRA,GK,CSA,25,1993,29,28,2520,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+18,Felipe Alves Raymundo\Felipe-Alves-Raymundo,br BRA,GK,Fortaleza,30,1988,32,32,2826,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+19,Bruno Alves\Bruno-Alves,br BRA,MF,CSA,26,1992,12,3,434,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+20,Dani Alves\Dani-Alves,br BRA,MFDF,São Paulo,35,1983,20,20,1755,2,3,0,0,4,0,0.10,0.15,0.26,0.10,0.26,Matches
+21,Diego Alves\Diego-Alves,br BRA,GK,Flamengo,33,1985,32,32,2880,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+22,Ronaldo Alves\Ronaldo-Alves,br BRA,DF,CSA,29,1989,6,5,512,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+23,Tiago Alves\Tiago-Alves,br BRA,DF,Ceará,34,1984,21,19,1747,1,1,0,0,1,0,0.05,0.05,0.10,0.05,0.10,Matches
+24,Jonatan Álvez\Jonatan-Alvez,uy URU,FW,Internacional,32,1986,3,0,83,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+25,Amaral\Amaral,br BRA,MFDF,Chapecoense,32,1986,15,10,950,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+26,Daniel Amorim\Daniel-Amorim,br BRA,FW,Avaí,29,1989,9,2,337,1,0,0,0,1,0,0.27,0.00,0.27,0.27,0.27,Matches
+27,Anderson\Anderson,br BRA,GK,Bahia,35,1983,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+28,Thonny Anderson\Thonny-Anderson,br BRA,FWMF,Atl Paranaense,21,1997,23,16,1375,3,4,0,0,6,0,0.20,0.26,0.46,0.20,0.46,Matches
+29,Tomás Andrade\Tomas-Andrade,ar ARG,MFFW,Atl Paranaense,22,1996,12,5,480,0,1,0,0,0,0,0.00,0.19,0.19,0.00,0.19,Matches
+30,André\Andre,br BRA,FW,Grêmio,28,1990,17,10,891,2,2,0,1,4,0,0.20,0.20,0.40,0.20,0.40,Matches
+31,Paulo André\Paulo-Andre,br BRA,DF,Atl Paranaense,35,1983,5,4,354,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+32,Marco Antônio\Marco-Antonio,br BRA,MFFW,Bahia,21,1997,6,3,345,1,1,0,0,0,0,0.26,0.26,0.52,0.26,0.52,Matches
+33,Antony\Antony,br BRA,MFFW,São Paulo,18,2000,29,27,2384,4,6,0,0,5,1,0.15,0.23,0.38,0.15,0.38,Matches
+34,Apodi\Apodi,br BRA,MFDF,CSA,32,1986,32,31,2615,4,1,0,0,6,0,0.14,0.03,0.17,0.14,0.17,Matches
+35,Willian Arão\Willian-Arao,br BRA,MF,Flamengo,26,1992,35,33,2938,2,5,0,0,3,0,0.06,0.15,0.21,0.06,0.21,Matches
+36,Felipe Araruna\Felipe-Araruna,br BRA,MF,Fortaleza,22,1996,9,7,625,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+37,Márcio Araújo\Marcio-Araujo,br BRA,MF,Chapecoense,34,1984,36,36,3214,0,0,0,0,6,1,0.00,0.00,0.00,0.00,0.00,Matches
+38,Vinícius Araújo\Vinicius-Araujo,br BRA,FWMF,Avaí,25,1993,15,10,998,1,0,0,0,2,0,0.09,0.00,0.09,0.09,0.09,Matches
+39,Robert Arboleda\Robert-Arboleda,ec ECU,DF,São Paulo,27,1991,29,29,2565,1,1,0,0,6,0,0.04,0.04,0.07,0.04,0.07,Matches
+40,Pablo Armero\Pablo-Armero,co COL,DF,CSA,32,1986,3,2,203,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+41,Arthur\Arthur,br BRA,FW,Palmeiras,20,1998,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+42,Arthur\Arthur,br BRA,MFFW,Bahia,26,1992,29,9,1114,6,1,1,1,5,2,0.48,0.08,0.57,0.40,0.48,Matches
+43,Arthur\Arthur,br BRA,MF,Chapecoense,20,1998,30,18,1918,4,0,0,0,2,0,0.19,0.00,0.19,0.19,0.19,Matches
+44,Artur\Artur,br BRA,FWMF,Bahia,20,1998,32,32,2828,7,3,0,1,7,0,0.22,0.10,0.32,0.22,0.32,Matches
+45,Léo Artur\Leo-Artur,br BRA,MFFW,Fluminense,23,1995,7,3,201,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+46,Giovanni Augusto\Giovanni-Augusto,br BRA,MF,Goiás,29,1989,12,10,778,0,1,0,0,3,1,0.00,0.12,0.12,0.00,0.12,Matches
+47,Auremir\Auremir,br BRA,MF,Ceará,27,1991,7,5,391,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+48,Danilo Avelar\Danilo-Avelar,br BRA,DF,Corinthians,29,1989,25,25,2177,2,0,0,0,6,0,0.08,0.00,0.08,0.08,0.08,Matches
+49,Aylon\Aylon,br BRA,MF,Chapecoense,26,1992,9,2,246,0,1,0,0,2,0,0.00,0.37,0.37,0.00,0.37,Matches
+50,Márcio Azevedo\Marcio-Azevedo,br BRA,DF,Atl Paranaense,32,1986,26,20,1865,1,3,0,0,7,0,0.05,0.14,0.19,0.05,0.19,Matches
+51,Robson Bambu\Robson-Bambu,br BRA,DF,Atl Paranaense,21,1997,8,7,599,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+52,Diogo Barbosa\Diogo-Barbosa,br BRA,DF,Palmeiras,26,1992,33,33,2970,0,2,0,0,4,0,0.00,0.06,0.06,0.00,0.06,Matches
+53,Gabriel Barbosa\Gabriel-Barbosa,br BRA,FWMF,Flamengo,22,1996,29,29,2546,24,9,5,5,13,1,0.85,0.32,1.17,0.67,0.99,Matches
+54,Matheus Barbosa\Matheus-Barbosa,br BRA,MF,Avaí,24,1994,18,14,1079,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+55,Danilo Barcelos\Danilo-Barcelos,br BRA,DFMF,Vasco da Gama,27,1991,21,18,1659,2,2,1,1,5,1,0.11,0.11,0.22,0.05,0.16,Matches
+56,Leandro Barcia\Leandro-Barcia,uy URU,MFFW,Goiás,26,1992,35,32,2794,5,3,0,0,9,0,0.16,0.10,0.26,0.16,0.26,Matches
+57,Lucas Barros\Lucas-Barros,br BRA,DF,Botafogo (RJ),19,1999,12,5,553,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+58,Fellipe Bastos\Fellipe-Bastos,br BRA,MF,Vasco da Gama,28,1990,14,5,571,1,0,0,0,4,0,0.16,0.00,0.16,0.16,0.16,Matches
+59,Gabriel Batista\Gabriel-Batista,br BRA,GK,Flamengo,20,1998,1,0,1,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+60,Muriel Becker\Muriel-Becker,br BRA,GK,Fluminense,31,1987,21,21,1890,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+61,Ramiro Benetti\Ramiro-Benetti,br BRA,MF,Corinthians,25,1993,18,13,982,0,1,0,0,1,0,0.00,0.09,0.09,0.00,0.09,Matches
+62,Orlando Berrío\Orlando-Berrio,co COL,MFFW,Flamengo,27,1991,16,4,448,1,2,0,0,3,1,0.20,0.40,0.60,0.20,0.60,Matches
+63,Betão\Betao,br BRA,DF,Avaí,35,1983,28,28,2492,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+64,Bill\Bill,br BRA,FW,Flamengo,19,1999,1,0,6,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+65,Gustavo Bochecha\Gustavo-Bochecha,br BRA,MF,Botafogo (RJ),22,1996,22,18,1499,0,1,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches
+66,Marcelo Boeck\Marcelo-Boeck,br BRA,GK,Fortaleza,34,1984,8,6,594,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+67,Nenê Bonilha\Nene-Bonilha,br BRA,MF,Fortaleza,26,1992,6,2,259,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+68,Marllon Borges\Marllon-Borges,br BRA,DF,Corinthians,26,1992,4,4,360,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+69,Miguel Borja\Miguel-Borja,co COL,FW,Palmeiras,26,1993,9,3,345,1,1,0,0,1,0,0.26,0.26,0.52,0.26,0.52,Matches
+70,Mauro Boselli\Mauro-Boselli,ar ARG,FW,Corinthians,33,1985,22,16,1356,7,2,1,1,3,0,0.46,0.13,0.60,0.40,0.53,Matches
+71,Júnior Brandão\Junior-Brandao,br BRA,FW,Goiás,24,1995,6,1,136,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+72,David Braz\David-Braz,br BRA,DF,Grêmio,31,1987,18,17,1568,2,2,0,0,0,0,0.11,0.11,0.23,0.11,0.23,Matches
+73,Brenner\Brenner,br BRA,MFFW,Fluminense,19,2000,5,2,220,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+74,Brenner\Brenner,br BRA,FW,São Paulo,19,2000,1,0,11,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+75,Breno\Breno,br BRA,MFDF,Goiás,18,2000,11,3,375,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+76,Feliciano Brizuela\Feliciano-Brizuela,py PAR,FW,Avaí,22,1996,4,1,171,1,0,0,0,0,0,0.53,0.00,0.53,0.53,0.53,Matches
+77,Eduardo Brock\Eduardo-Brock,br BRA,DF,Ceará,27,1991,9,5,480,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+78,Fabrício Bruno\Fabricio-Bruno,br BRA,DF,Cruzeiro,22,1996,19,19,1710,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+79,Bryan\Bryan,br BRA,DF,Chapecoense,22,1996,9,6,557,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+80,Ricardo Bueno\Ricardo-Bueno,br BRA,FW,CSA,31,1987,23,17,1608,4,0,1,1,5,0,0.22,0.00,0.22,0.17,0.17,Matches
+81,Ricardo Bueno\Ricardo-Bueno,br BRA,FW,Ceará,31,1987,6,4,340,3,2,0,1,0,0,0.79,0.53,1.32,0.79,1.32,Matches
+82,Vitor Bueno\Vitor-Bueno,br BRA,MFFW,São Paulo,24,1994,28,18,1653,6,1,0,0,2,0,0.33,0.05,0.38,0.33,0.38,Matches
+83,Héctor Bustamante\Hector-Bustamante,py PAR,MFFW,CSA,23,1995,19,14,1174,1,1,0,0,2,0,0.08,0.08,0.15,0.08,0.15,Matches
+84,Patric Cabral Lalau\Patric-Cabral-Lalau,br BRA,DF,Atlético Mineiro,29,1989,24,23,2048,1,2,0,0,6,0,0.04,0.09,0.13,0.04,0.13,Matches
+85,Ariel Cabral\Ariel-Cabral,ar ARG,MF,Cruzeiro,31,1987,16,11,769,0,1,0,0,3,0,0.00,0.12,0.12,0.00,0.12,Matches
+86,Cacá\Caca,br BRA,DF,Cruzeiro,19,1999,20,18,1727,1,0,0,0,5,0,0.05,0.00,0.05,0.05,0.05,Matches
+87,Raúl Cáceres\Raul-Caceres,py PAR,DFMF,Vasco da Gama,27,1991,7,6,481,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+88,Caio\Caio,br BRA,GK,Atl Paranaense,22,1997,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+89,Rodrigo Caio\Rodrigo-Caio,br BRA,DF,Flamengo,25,1993,29,28,2419,2,0,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+90,Marcos Calazans\Marcos-Calazans,br BRA,MF,São Paulo,22,1996,4,1,138,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+91,Guilherme Camacho\Guilherme-Camacho,br BRA,MF,Atl Paranaense,28,1990,11,8,696,0,1,0,0,2,0,0.00,0.13,0.13,0.00,0.13,Matches
+92,Fernando Camilo Farias\Fernando-Camilo-Farias,br BRA,MFFW,Chapecoense,32,1986,28,25,2058,1,4,0,0,2,0,0.04,0.17,0.22,0.04,0.22,Matches
+93,Fernando Camilo Farias\Fernando-Camilo-Farias,br BRA,MF,Internacional,32,1986,1,1,54,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+94,Gustavo Campanharo\Gustavo-Campanharo,br BRA,MF,Chapecoense,26,1992,25,20,1607,2,1,0,0,1,0,0.11,0.06,0.17,0.11,0.17,Matches
+95,Edinho Campos\Edinho-Campos,br BRA,MF,Ceará,36,1983,2,1,90,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+96,Lucas Campos\Lucas-Campos,br BRA,MF,Botafogo (RJ),21,1997,10,3,368,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+97,Juninho Capixaba\Juninho-Capixaba,br BRA,DF,Grêmio,21,1997,17,16,1469,0,1,0,0,7,0,0.00,0.06,0.06,0.00,0.06,Matches
+98,Felippe Cardoso\Felippe-Cardoso,br BRA,FW,Ceará,20,1998,18,14,1287,2,1,0,0,2,0,0.14,0.07,0.21,0.14,0.21,Matches
+99,Johnny Cardoso\Johnny-Cardoso,us USA,FW,Internacional,17,2001,1,0,15,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+100,Jones Carioca\Jones-Carioca,br BRA,MF,Avaí,30,1988,3,0,55,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+101,Thiago Carleto\Thiago-Carleto,br BRA,DF,Ceará,29,1989,5,5,437,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+102,Joel Carli\Joel-Carli,ar ARG,DF,Botafogo (RJ),32,1986,25,25,2250,0,0,0,0,10,0,0.00,0.00,0.00,0.00,0.00,Matches
+103,Carlinhos\Carlinhos,br BRA,DF,Fortaleza,32,1986,27,27,2428,1,2,0,0,9,1,0.04,0.07,0.11,0.04,0.11,Matches
+104,Carlinhos\Carlinhos,br BRA,DF,CSA,32,1987,26,26,2275,2,0,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches
+105,Carlos\Carlos,br BRA,DF,Corinthians,20,1999,15,13,1198,1,0,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches
+106,Antonio Carlos\Antonio-Carlos,br BRA,DF,Palmeiras,25,1993,9,8,738,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+107,Jean Carlos\Jean-Carlos,br BRA,MF,Goiás,25,1993,1,1,20,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+108,João Carlos\Joao-Carlos,br BRA,GK,CSA,30,1988,11,10,899,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+109,Leandro Carvalho\Leandro-Carvalho,br BRA,MF,Ceará,23,1995,26,15,1284,3,2,0,0,5,0,0.21,0.14,0.35,0.21,0.35,Matches
+110,Roger Carvalho\Roger-Carvalho,br BRA,DF,Fortaleza,32,1986,12,12,987,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+111,Cassiano\Cassiano,br BRA,FWMF,CSA,29,1989,10,6,560,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+112,Cássio\Cassio,br BRA,GK,Corinthians,31,1987,32,32,2860,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+113,Igor Cássio\Igor-Cassio,br BRA,MFFW,Botafogo (RJ),20,1998,12,6,632,2,0,0,0,1,0,0.28,0.00,0.28,0.28,0.28,Matches
+114,Leandro Castán\Leandro-Castan,br BRA,DF,Vasco da Gama,32,1986,22,22,1974,2,1,0,0,8,1,0.09,0.05,0.14,0.09,0.14,Matches
+115,Luciano Castán\Luciano-Castan,br BRA,DF,CSA,29,1989,34,34,3060,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+116,Pedro Castro\Pedro-Castro,br BRA,MF,Avaí,25,1993,27,27,2312,1,0,0,1,1,0,0.04,0.00,0.04,0.04,0.04,Matches
+117,Diego Cavalieri\Diego-Cavalieri,br BRA,GK,Botafogo (RJ),36,1982,9,8,765,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+118,Juan Cazares\Juan-Cazares,ec ECU,MF,Atlético Mineiro,26,1992,26,22,1763,6,1,1,1,3,1,0.31,0.05,0.36,0.26,0.31,Matches
+119,Celsinho\Celsinho,br BRA,DF,CSA,30,1988,12,9,869,0,1,0,0,1,0,0.00,0.10,0.10,0.00,0.10,Matches
+120,Murilo Cerqueira\Murilo-Cerqueira,br BRA,DF,Cruzeiro,21,1997,1,1,84,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+121,César\Cesar,br BRA,GK,Flamengo,27,1992,6,6,538,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+122,Augusto César Moreira\Augusto-Cesar-Moreira,br BRA,MF,Chapecoense,26,1992,13,8,710,0,1,0,0,0,0,0.00,0.13,0.13,0.00,0.13,Matches
+123,Bruno César\Bruno-Cesar,br BRA,MFFW,Vasco da Gama,30,1988,13,5,509,2,0,0,0,2,0,0.35,0.00,0.35,0.35,0.35,Matches
+124,Júlio César\Julio-Cesar,br BRA,GK,Grêmio,32,1986,8,8,720,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+125,Yimmi Chará\Yimmi-Chara,co COL,MF,Atlético Mineiro,27,1991,18,17,1359,3,1,0,0,0,0,0.20,0.07,0.26,0.20,0.26,Matches
+126,Gabriel Chaves\Gabriel-Chaves,br BRA,MF,Vasco da Gama,17,2001,8,0,181,0,1,0,0,0,0,0.00,0.50,0.50,0.00,0.50,Matches
+127,Chico\Chico,br BRA,MF,Ceará,27,1991,11,8,653,0,1,0,0,1,0,0.00,0.14,0.14,0.00,0.14,Matches
+128,Marcelo Cirino\Marcelo-Cirino,br BRA,MFFW,Atl Paranaense,27,1992,30,19,1876,9,2,1,2,0,0,0.43,0.10,0.53,0.38,0.48,Matches
+129,Léo Cittadini\Leo-Cittadini,br BRA,MF,Atl Paranaense,24,1994,21,16,1326,4,1,0,0,2,0,0.27,0.07,0.34,0.27,0.34,Matches
+130,Luccas Claro\Luccas-Claro,br BRA,DF,Fluminense,27,1991,2,2,180,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+131,Clayson\Clayson,br BRA,MF,Corinthians,23,1995,32,22,2015,3,7,1,1,6,0,0.13,0.31,0.45,0.09,0.40,Matches
+132,Clayton\Clayton,br BRA,MF,Vasco da Gama,23,1995,7,1,119,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+133,Clayton\Clayton,br BRA,FWMF,Bahia,23,1995,1,0,16,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+134,Jean Cléber\Jean-Cleber,br BRA,MF,CSA,28,1990,24,11,1231,0,2,0,0,6,0,0.00,0.15,0.15,0.00,0.15,Matches
+135,Jonathan Copete\Jonathan-Copete,co COL,FW,Santos,31,1988,1,1,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+136,Bruno Cortez\Bruno-Cortez,br BRA,DF,Grêmio,31,1987,21,21,1813,1,2,0,0,4,0,0.05,0.10,0.15,0.05,0.15,Matches
+137,Alan Costa\Alan-Costa,br BRA,DF,CSA,28,1990,26,26,2278,1,0,0,0,6,0,0.04,0.00,0.04,0.04,0.04,Matches
+138,Walce Costa\Walce-Costa,br BRA,DF,São Paulo,19,1999,4,4,360,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+139,Gustavo Cuellar\Gustavo-Cuellar,co COL,MF,Flamengo,26,1992,9,8,710,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+140,Víctor Cuesta\Victor-Cuesta,ar ARG,DF,Internacional,30,1988,31,30,2712,1,1,0,0,8,0,0.03,0.03,0.07,0.03,0.07,Matches
+141,Christian Cueva\Christian-Cueva,pe PER,FW,Santos,27,1991,5,1,149,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+142,Andrés D'Alessandro\Andres-DAlessandro,ar ARG,MFFW,Internacional,37,1981,23,15,1515,1,3,0,1,7,0,0.06,0.18,0.24,0.06,0.24,Matches
+143,Robert Piris Da Motta\Robert-Piris-Da-Motta,py PAR,MF,Flamengo,24,1994,26,13,1292,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+144,Dalberto\Dalberto,br BRA,MFFW,Chapecoense,24,1994,10,4,364,0,1,0,0,2,0,0.00,0.25,0.25,0.00,0.25,Matches
+145,Daniel\Daniel,br BRA,MF,Fluminense,23,1996,30,28,2338,1,3,0,0,3,0,0.04,0.12,0.15,0.04,0.15,Matches
+146,Danilo\Danilo,br BRA,,São Paulo,19,1999,1,0,10,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+147,Dantas\Dantas,br BRA,DF,Flamengo,20,1998,1,1,64,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+148,David\David,br BRA,MF,Cruzeiro,23,1995,33,23,2025,0,2,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches
+149,Jonathan David Gómez\Jonathan-David-Gomez,ar ARG,MFFW,CSA,29,1989,26,25,2166,5,3,3,3,8,1,0.21,0.12,0.33,0.08,0.21,Matches
+150,Dawhan\Dawhan,br BRA,DFMF,CSA,25,1993,32,26,2454,0,0,0,0,8,0,0.00,0.00,0.00,0.00,0.00,Matches
+151,Giorgian De Arrascaeta\Giorgian-De-Arrascaeta,uy URU,MF,Flamengo,24,1994,23,22,1829,13,14,1,1,1,0,0.64,0.69,1.33,0.59,1.28,Matches
+152,Dedé\Dede,br BRA,DF,Cruzeiro,30,1988,20,20,1693,3,0,0,0,2,0,0.16,0.00,0.16,0.16,0.16,Matches
+153,Derley\Derley,br BRA,MF,Fortaleza,32,1986,4,0,60,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+154,Agenor Detofol\Agenor-Detofol,br BRA,GK,Fluminense,29,1989,6,6,515,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+155,Deyverson\Deyverson,br BRA,FW,Palmeiras,27,1991,24,21,1776,5,2,0,0,4,0,0.25,0.10,0.35,0.25,0.35,Matches
+156,Franco Di Santo\Franco-Di-Santo,ar ARG,FW,Atlético Mineiro,29,1989,21,16,1456,3,1,1,2,2,0,0.19,0.06,0.25,0.12,0.19,Matches
+157,Ricardo Dias Acosta\Ricardo-Dias-Acosta,br BRA,MF,Ceará,33,1985,34,31,2663,1,6,0,0,1,0,0.03,0.20,0.24,0.03,0.24,Matches
+158,Ernandes Dias Luz\Ernandes-Dias-Luz,br BRA,DF,Chapecoense,31,1987,2,1,111,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+159,Gabriel Dias\Gabriel-Dias,br BRA,DFMF,Fortaleza,24,1994,28,25,2211,2,2,0,0,11,1,0.08,0.08,0.16,0.08,0.16,Matches
+160,Lucas Dias\Lucas-Dias,br BRA,DF,CSA,23,1995,2,1,99,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+161,Didira\Didira,br BRA,MF,CSA,30,1988,14,13,999,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+162,Diego\Diego,br BRA,MF,São Paulo,19,1999,1,0,38,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+163,Diego\Diego,br BRA,MF,Flamengo,33,1985,16,10,886,1,1,0,1,5,0,0.10,0.10,0.20,0.10,0.20,Matches
+164,Digão\Digao,br BRA,DF,Fluminense,30,1988,21,21,1757,1,0,0,0,5,2,0.05,0.00,0.05,0.05,0.05,Matches
+165,Dodi\Dodi,br BRA,MF,Fluminense,22,1996,9,2,364,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+166,Dodô\Dodo,br BRA,DF,Cruzeiro,26,1992,18,14,1352,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+167,Dodô\Dodo,br BRA,MF,Fortaleza,24,1994,5,1,154,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+168,Douglas dos Santos\Douglas-dos-Santos,br BRA,MF,Avaí,36,1982,12,4,501,0,1,0,0,1,0,0.00,0.18,0.18,0.00,0.18,Matches
+169,Thiago dos Santos\Thiago-dos-Santos,br BRA,MF,Palmeiras,29,1989,18,11,1081,1,0,0,0,5,0,0.08,0.00,0.08,0.08,0.08,Matches
+170,Douglas\Douglas,br BRA,DF,Chapecoense,28,1990,27,26,2290,0,1,0,0,9,0,0.00,0.04,0.04,0.00,0.04,Matches
+171,Douglas\Douglas,br BRA,MF,Bahia,22,1997,7,7,595,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+172,Henrique Dourado\Henrique-Dourado,br BRA,FW,Palmeiras,29,1989,4,0,74,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+173,Rodrigo Dourado\Rodrigo-Dourado,br BRA,MF,Internacional,24,1994,1,1,90,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+174,Edu Dracena\Edu-Dracena,br BRA,DF,Palmeiras,37,1981,6,6,540,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+175,David Duarte\David-Duarte,br BRA,DF,Goiás,24,1995,7,7,541,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+176,Léo Duarte\Leo-Duarte,br BRA,DF,Flamengo,22,1996,7,7,600,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+177,Dudu\Dudu,br BRA,MF,Palmeiras,27,1992,36,34,3070,9,10,0,0,5,0,0.26,0.29,0.56,0.26,0.56,Matches
+178,Pablo Dyego\Pablo-Dyego,br BRA,MF,Fluminense,24,1994,9,0,117,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+179,Edenílson\Edenilson,br BRA,MF,Internacional,29,1989,30,28,2472,5,2,0,0,8,0,0.18,0.07,0.25,0.18,0.25,Matches
+180,Éderson\Ederson,br BRA,MF,Cruzeiro,19,1999,21,20,1648,2,0,0,0,4,0,0.11,0.00,0.11,0.11,0.11,Matches
+181,Edinho\Edinho,br BRA,MF,Fortaleza,24,1994,29,20,1750,3,1,0,0,1,0,0.15,0.05,0.21,0.15,0.21,Matches
+182,Eduardo\Eduardo,br BRA,DF,Chapecoense,32,1986,26,24,2166,0,2,0,0,4,0,0.00,0.08,0.08,0.00,0.08,Matches
+183,Carlos Eduardo\Carlos-Eduardo,br BRA,MF,Palmeiras,22,1996,7,1,233,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+184,Élber\Elber,br BRA,FWMF,Bahia,26,1992,31,24,1866,3,2,0,0,3,0,0.14,0.10,0.24,0.14,0.24,Matches
+185,Elías\Elias,br BRA,MF,Atlético Mineiro,33,1985,25,25,2023,1,1,0,0,3,1,0.04,0.04,0.09,0.04,0.09,Matches
+186,Elicarlos\Elicarlos,br BRA,MF,Chapecoense,33,1985,19,16,1506,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+187,Elton\Elton,br BRA,MF,Bahia,28,1990,9,7,607,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+188,Emanuel\Emanuel,br BRA,DF,Grêmio,19,1999,1,0,19,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+189,Erick\Erick,br BRA,MFDF,Atl Paranaense,21,1997,14,7,759,1,0,0,0,1,0,0.12,0.00,0.12,0.12,0.12,Matches
+190,Erik\Erik,br BRA,DF,Internacional,17,2001,2,0,83,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+191,Ernando\Ernando,br BRA,DF,Bahia,30,1988,8,8,720,1,0,0,0,0,0,0.12,0.00,0.12,0.12,0.12,Matches
+192,Euller\Euller,br BRA,MFDF,CSA,24,1995,16,11,895,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+193,Evanilson\Evanilson,br BRA,FW,Fluminense,19,1999,3,1,103,2,0,0,0,1,0,1.75,0.00,1.75,1.75,1.75,Matches
+194,Everaldo\Everaldo,br BRA,MF,Corinthians,24,1994,9,3,330,1,0,0,0,1,0,0.27,0.00,0.27,0.27,0.27,Matches
+195,Everaldo\Everaldo,br BRA,FW,Fluminense,24,1994,2,2,180,0,1,0,0,1,0,0.00,0.50,0.50,0.00,0.50,Matches
+196,Éverson\Everson,br BRA,GK,Santos,28,1990,32,32,2880,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+197,Éverton\Everton,br BRA,MF,São Paulo,30,1988,16,12,1061,1,2,0,0,3,0,0.08,0.17,0.25,0.08,0.25,Matches
+198,Ewandro\Ewandro,br BRA,FW,Fluminense,22,1996,2,0,10,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+199,Ezequiel\Ezequiel,br BRA,DF,Bahia,25,1993,6,5,444,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+200,Ezequiel\Ezequiel,br BRA,MFFW,Cruzeiro,20,1998,14,2,360,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+201,Diego Fabián Torres\Diego-Fabian-Torres,ar ARG,MF,Chapecoense,28,1990,13,3,413,1,1,0,0,0,0,0.22,0.22,0.44,0.22,0.44,Matches
+202,Bruno Fabiano Alves\Bruno-Fabiano-Alves,br BRA,DF,São Paulo,27,1991,33,33,2925,1,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches
+203,Patrick Fabiano\Patrick-Fabiano,tl TLS,FW,CSA,31,1987,5,4,351,0,1,0,0,0,0,0.00,0.26,0.26,0.00,0.26,Matches
+204,Fabinho\Fabinho,br BRA,FW,São Paulo,19,1999,1,0,13,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+205,Fábio\Fabio,br BRA,GK,Cruzeiro,38,1980,35,35,3150,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+206,Fagner\Fagner,br BRA,DF,Corinthians,29,1989,30,28,2559,1,3,0,0,8,0,0.04,0.11,0.14,0.04,0.14,Matches
+207,Willian Farias\Willian-Farias,br BRA,MF,São Paulo,29,1989,1,0,15,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+208,Felipe\Felipe,br BRA,DF,Grêmio,19,1999,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+209,Felipe\Felipe,br BRA,MF,Fortaleza,24,1994,30,30,2665,0,1,0,0,12,0,0.00,0.03,0.03,0.00,0.03,Matches
+210,Everton Felipe\Everton-Felipe,br BRA,MF,São Paulo,21,1997,3,0,81,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+211,Everton Felipe\Everton-Felipe,br BRA,MF,Atl Paranaense,21,1997,5,2,176,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+212,Luis Felipe\Luis-Felipe,br BRA,DF,Santos,25,1993,8,3,331,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+213,Marcos Felipe\Marcos-Felipe,br BRA,GK,Fluminense,22,1996,6,6,540,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+214,Fernandão\Fernandao,br BRA,FW,Bahia,31,1987,32,11,1082,5,0,2,2,1,1,0.42,0.00,0.42,0.25,0.25,Matches
+215,Danilo Fernandes\Danilo-Fernandes,br BRA,GK,Internacional,30,1988,5,4,394,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+216,Matheus Fernandes\Matheus-Fernandes,br BRA,MF,Palmeiras,20,1998,11,6,537,1,0,0,0,2,0,0.17,0.00,0.17,0.17,0.17,Matches
+217,Gatito Fernández\Gatito-Fernandez,py PAR,GK,Botafogo (RJ),30,1988,30,30,2655,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+218,Fernando\Fernando,br BRA,DF,Botafogo (RJ),20,1998,22,19,1682,0,1,0,0,7,0,0.00,0.05,0.05,0.00,0.05,Matches
+219,Luiz Fernando\Luiz-Fernando,br BRA,MFFW,Botafogo (RJ),22,1996,32,27,2128,1,0,0,0,7,1,0.04,0.00,0.04,0.04,0.04,Matches
+220,Gustavo Ferrareis\Gustavo-Ferrareis,br BRA,MF,Avaí,23,1996,8,5,422,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+221,Gustavo Ferrareis\Gustavo-Ferrareis,br BRA,MF,Botafogo (RJ),23,1996,2,0,58,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+222,Matheus Ferraz\Matheus-Ferraz,br BRA,DF,Fluminense,33,1985,7,7,572,1,0,0,0,1,0,0.16,0.00,0.16,0.16,0.16,Matches
+223,Victor Ferraz\Victor-Ferraz,br BRA,DFMF,Santos,31,1988,25,21,1948,0,2,0,0,3,0,0.00,0.09,0.09,0.00,0.09,Matches
+224,Ferreira\Ferreira,br BRA,MF,Grêmio,21,1997,4,1,147,1,3,0,0,0,0,0.61,1.84,2.45,0.61,2.45,Matches
+225,Felipe Ferreira\Felipe-Ferreira,br BRA,MF,Vasco da Gama,24,1994,9,3,371,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+226,Matheus Ferreira\Matheus-Ferreira,br BRA,FW,Avaí,20,1998,2,1,63,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+227,Miguel Figueira\Miguel-Figueira,br BRA,FW,Goiás,18,2000,1,0,5,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+228,Flávio\Flavio,br BRA,MF,Bahia,22,1996,28,27,2334,0,1,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+229,Lucas Fonseca\Lucas-Fonseca,br BRA,DF,Bahia,33,1985,35,35,3114,0,1,0,0,2,0,0.00,0.03,0.03,0.00,0.03,Matches
+230,Caíque França\Caique-Franca,br BRA,GK,Corinthians,23,1995,1,0,20,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+231,Lucas França\Lucas-Franca,br BRA,GK,Ceará,23,1996,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+232,Richard Franco\Richard-Franco,py PAR,MF,Avaí,26,1992,27,26,2286,1,1,0,0,5,0,0.04,0.04,0.08,0.04,0.08,Matches
+233,Frazan\Frazan,br BRA,DF,Fluminense,22,1996,11,5,557,1,0,0,0,2,2,0.16,0.00,0.16,0.16,0.16,Matches
+234,Fred\Fred,br BRA,FW,Cruzeiro,35,1983,30,23,2206,5,3,3,3,10,0,0.20,0.12,0.33,0.08,0.20,Matches
+235,Douglas Friedrich\Douglas-Friedrich,br BRA,GK,Bahia,30,1988,37,37,3330,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+236,Lucas Frigeri\Lucas-Frigeri,br BRA,GK,Avaí,29,1989,4,4,360,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+237,Matheus Frizzo\Matheus-Frizzo,br BRA,MF,Grêmio,20,1998,1,1,83,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+238,Bruno Fuchs\Bruno-Fuchs,br BRA,DF,Internacional,19,1999,10,9,792,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+239,Gabriel\Gabriel,br BRA,DF,São Paulo,17,2002,1,0,37,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+240,Gabriel\Gabriel,br BRA,MF,Internacional,20,1999,2,1,74,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+241,Gabriel\Gabriel,br BRA,MF,São Paulo,19,1999,5,1,132,0,1,0,0,1,0,0.00,0.68,0.68,0.00,0.68,Matches
+242,Gabriel\Gabriel,br BRA,MF,Corinthians,26,1992,17,16,1377,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+243,Gabriel\Gabriel,br BRA,DF,Botafogo (RJ),23,1995,34,34,3003,1,1,0,0,6,0,0.03,0.03,0.06,0.03,0.06,Matches
+244,Marquinhos Gabriel\Marquinhos-Gabriel,br BRA,MF,Cruzeiro,28,1990,28,20,1800,0,2,0,0,3,0,0.00,0.10,0.10,0.00,0.10,Matches
+245,Vitor Gabriel\Vitor-Gabriel,br BRA,FW,Flamengo,19,2000,1,0,45,0,1,0,0,0,0,0.00,2.00,2.00,0.00,2.00,Matches
+246,Rafael Galhardo\Rafael-Galhardo,br BRA,DFMF,Grêmio,27,1991,16,15,1178,2,3,1,1,2,1,0.15,0.23,0.38,0.08,0.31,Matches
+247,Thiago Galhardo\Thiago-Galhardo,br BRA,MFFW,Ceará,29,1989,34,31,2674,12,1,3,4,4,0,0.40,0.03,0.44,0.30,0.34,Matches
+248,Rodolfo Gamarra\Rodolfo-Gamarra,py PAR,FWMF,CSA,30,1988,2,0,52,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+249,Ganso\Ganso,br BRA,MF,Fluminense,29,1989,29,26,2255,2,0,1,1,7,0,0.08,0.00,0.08,0.04,0.04,Matches
+250,Luan Garcia\Luan-Garcia,br BRA,DF,Palmeiras,25,1993,21,20,1805,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+251,Gegê\Gege,br BRA,MF,Avaí,25,1994,11,6,511,1,0,0,0,2,0,0.18,0.00,0.18,0.18,0.18,Matches
+252,Geovane\Geovane,br BRA,MF,Goiás,29,1989,17,16,1386,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+253,Pedro Geromel\Pedro-Geromel,br BRA,DF,Grêmio,33,1985,20,20,1762,3,0,0,0,4,0,0.15,0.00,0.15,0.15,0.15,Matches
+254,Gerson\Gerson,br BRA,MF,Flamengo,21,1997,27,23,2003,2,3,0,0,3,0,0.09,0.13,0.22,0.09,0.22,Matches
+255,Gerson\Gerson,br BRA,DF,CSA,27,1992,9,9,810,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+256,Getúlio\Getulio,br BRA,FWMF,Avaí,21,1997,8,6,488,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+257,Geuvânio\Geuvanio,br BRA,MF,Atlético Mineiro,26,1992,25,9,992,0,1,0,0,6,1,0.00,0.09,0.09,0.00,0.09,Matches
+258,Gil\Gil,br BRA,DF,Corinthians,31,1987,29,29,2610,1,0,0,0,5,0,0.03,0.00,0.03,0.03,0.03,Matches
+259,Gilberto\Gilberto,br BRA,FW,Bahia,29,1989,32,27,2348,14,3,6,6,2,0,0.54,0.11,0.65,0.31,0.42,Matches
+260,Gilberto\Gilberto,br BRA,MF,Goiás,30,1988,20,18,1601,1,0,0,0,4,0,0.06,0.00,0.06,0.06,0.06,Matches
+261,Gilberto\Gilberto,br BRA,DF,Fluminense,25,1993,31,31,2746,0,2,0,0,2,0,0.00,0.07,0.07,0.00,0.07,Matches
+262,Gilson\Gilson,br BRA,DF,Botafogo (RJ),32,1986,18,18,1508,0,1,0,0,5,2,0.00,0.06,0.06,0.00,0.06,Matches
+263,Giovanny\Giovanny,br BRA,MF,Goiás,21,1997,1,0,22,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+264,Glédson\Gledson,br BRA,GK,Avaí,35,1983,1,0,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+265,Evandro Goebel\Evandro-Goebel,br BRA,MF,Santos,32,1986,18,14,1100,1,5,0,0,2,1,0.08,0.41,0.49,0.08,0.49,Matches
+266,Bruno Gomes\Bruno-Gomes,br BRA,MF,Vasco da Gama,17,2001,8,6,436,1,0,0,0,3,0,0.21,0.00,0.21,0.21,0.21,Matches
+267,Igor Gomes\Igor-Gomes,br BRA,MF,São Paulo,19,1999,27,11,1349,2,2,0,0,3,0,0.13,0.13,0.27,0.13,0.27,Matches
+268,Leonardo Gomes\Leonardo-Gomes,br BRA,DF,Grêmio,22,1996,9,9,810,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+269,Gustavo Gómez\Gustavo-Gomez,py PAR,DF,Palmeiras,25,1993,22,22,1953,3,0,1,1,6,1,0.14,0.00,0.14,0.09,0.09,Matches
+270,Mateus Gonçalves Martins\Mateus-Goncalves-Martins,br BRA,MF,Ceará,24,1994,24,8,923,4,1,0,0,2,0,0.39,0.10,0.49,0.39,0.49,Matches
+271,Fábio Gonçalves\Fabio-Goncalves,br BRA,MF,Ceará,32,1986,35,35,3123,1,0,0,0,9,0,0.03,0.00,0.03,0.03,0.03,Matches
+272,Derlis González\Derlis-Gonzalez,py PAR,FWMF,Santos,24,1994,16,9,806,1,0,0,0,5,1,0.11,0.00,0.11,0.11,0.11,Matches
+273,Lucho González\Lucho-Gonzalez,ar ARG,MFDF,Atl Paranaense,38,1981,17,10,819,1,0,0,0,1,0,0.11,0.00,0.11,0.11,0.11,Matches
+274,Yony González\Yony-Gonzalez,co COL,MFFW,Fluminense,24,1994,34,34,2921,6,2,0,0,3,0,0.18,0.06,0.25,0.18,0.25,Matches
+275,Ricardo Goulart\Ricardo-Goulart,br BRA,MF,Palmeiras,27,1991,1,1,8,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+276,Igor Goularte\Igor-Goularte,br BRA,FWMF,Avaí,22,1996,7,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+277,Fredy Guarín\Fredy-Guarin,co COL,MFFW,Vasco da Gama,32,1986,12,9,799,3,0,0,0,3,0,0.34,0.00,0.34,0.34,0.34,Matches
+278,Daniel Guedes\Daniel-Guedes,br BRA,DF,Goiás,24,1994,15,13,1219,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+279,Alejandro Guerra\Alejandro-Guerra,ve VEN,MFFW,Bahia,33,1985,17,8,695,1,2,0,0,6,0,0.13,0.26,0.39,0.13,0.39,Matches
+280,Paolo Guerrero\Paolo-Guerrero,pe PER,FW,Internacional,35,1984,24,23,2013,10,1,0,1,3,1,0.45,0.04,0.49,0.45,0.49,Matches
+281,Guga\Guga,br BRA,DF,Atlético Mineiro,20,1998,18,18,1551,0,4,0,0,0,0,0.00,0.23,0.23,0.00,0.23,Matches
+282,Guilherme\Guilherme,br BRA,MF,Fluminense,30,1988,8,1,193,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+283,Guilherme\Guilherme,br BRA,FW,Grêmio,17,2001,2,0,27,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+284,Bruno Guimarães\Bruno-Guimaraes,br BRA,MF,Atl Paranaense,21,1997,25,23,1964,2,1,0,0,4,0,0.09,0.05,0.14,0.09,0.14,Matches
+285,Gum\Gum,br BRA,DF,Chapecoense,33,1986,20,20,1741,1,0,0,0,1,2,0.05,0.00,0.05,0.05,0.05,Matches
+286,Gustavo\Gustavo,br BRA,FW,Corinthians,24,1994,25,9,1004,5,2,1,1,2,0,0.45,0.18,0.63,0.36,0.54,Matches
+287,Luiz Gustavo\Luiz-Gustavo,br BRA,DF,Vasco da Gama,24,1994,2,2,135,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+288,Lucas Halter\Lucas-Halter,br BRA,DF,Atl Paranaense,18,2000,9,7,671,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+289,Heitor\Heitor,br BRA,DF,Internacional,18,2000,20,20,1748,0,1,0,0,5,0,0.00,0.05,0.05,0.00,0.05,Matches
+290,Thiago Heleno\Thiago-Heleno,br BRA,DF,Atl Paranaense,30,1988,16,16,1420,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+291,Henrique\Henrique,br BRA,DF,Vasco da Gama,24,1994,21,20,1711,0,0,0,0,6,0,0.00,0.00,0.00,0.00,0.00,Matches
+292,Henrique\Henrique,br BRA,DF,Corinthians,32,1986,5,5,450,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+293,Bruno Henrique\Bruno-Henrique,br BRA,MF,Palmeiras,29,1989,34,33,2902,10,2,1,1,2,0,0.31,0.06,0.37,0.28,0.34,Matches
+294,Bruno Henrique\Bruno-Henrique,br BRA,MFFW,Flamengo,28,1990,33,29,2571,22,3,0,1,9,0,0.77,0.11,0.88,0.77,0.88,Matches
+295,Gustavo Henrique\Gustavo-Henrique,br BRA,DF,Santos,25,1993,32,32,2756,3,0,0,0,10,2,0.10,0.00,0.10,0.10,0.10,Matches
+296,Luis Henrique\Luis-Henrique,br BRA,MF,Botafogo (RJ),17,2001,2,1,123,0,1,0,0,0,0,0.00,0.73,0.73,0.00,0.73,Matches
+297,Matheus Henrique\Matheus-Henrique,br BRA,MF,Grêmio,21,1997,20,20,1766,0,1,0,0,9,0,0.00,0.05,0.05,0.00,0.05,Matches
+298,Pedro Henrique\Pedro-Henrique,br BRA,DF,Atl Paranaense,23,1995,13,13,1143,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+299,Pedro Henrique\Pedro-Henrique,br BRA,DF,Corinthians,23,1995,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+300,Oswaldo Henríquez\Oswaldo-Henriquez,co COL,DF,Vasco da Gama,29,1989,27,27,2430,1,1,0,0,5,0,0.04,0.04,0.07,0.04,0.07,Matches
+301,Marcelo Hermes\Marcelo-Hermes,br BRA,DFMF,Goiás,23,1995,12,7,731,0,3,0,0,3,0,0.00,0.37,0.37,0.00,0.37,Matches
+302,Lucas Hernández\Lucas-Hernandez,uy URU,DF,Atlético Mineiro,26,1992,5,5,449,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+303,Hernanes\Hernanes,br BRA,MF,São Paulo,33,1985,25,13,1242,2,4,0,0,4,0,0.14,0.29,0.43,0.14,0.43,Matches
+304,Roberto Heuchayer\Roberto-Heuchayer,br BRA,MFDF,Chapecoense,28,1990,17,17,1490,0,1,0,0,2,0,0.00,0.06,0.06,0.00,0.06,Matches
+305,Hiago\Hiago,br BRA,DF,Chapecoense,21,1997,5,2,191,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+306,Hudson\Hudson,br BRA,MFDF,São Paulo,31,1988,16,11,1045,1,1,0,0,3,0,0.09,0.09,0.17,0.09,0.17,Matches
+307,Vitor Hugo\Vitor-Hugo,br BRA,DF,Palmeiras,27,1991,20,20,1800,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+308,Hulk\Hulk,br BRA,DF,Atlético Mineiro,19,1999,2,1,91,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+309,Hyoran\Hyoran,br BRA,MF,Palmeiras,25,1993,12,5,453,1,3,0,0,1,0,0.20,0.60,0.79,0.20,0.79,Matches
+310,Iago\Iago,br BRA,DF,Internacional,21,1997,5,5,450,0,1,0,0,1,0,0.00,0.20,0.20,0.00,0.20,Matches
+311,Igor\Igor,br BRA,DF,Avaí,26,1992,28,28,2475,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+312,Isaque\Isaque,br BRA,FW,Grêmio,21,1997,2,1,101,1,0,0,0,0,0,0.89,0.00,0.89,0.89,0.89,Matches
+313,Iury\Iury,br BRA,DF,Avaí,26,1992,10,9,675,0,1,0,0,1,0,0.00,0.13,0.13,0.00,0.13,Matches
+314,Jáderson\Jaderson,br BRA,FW,Atl Paranaense,18,2000,1,0,,0,0,0,0,0,0,,,,,,Matches
+315,Jadson\Jadson,br BRA,MF,Cruzeiro,17,2001,1,0,30,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+316,Jádson\Jadson,br BRA,MF,Corinthians,35,1983,18,5,661,0,1,0,0,3,0,0.00,0.14,0.14,0.00,0.14,Matches
+317,Jadson\Jadson,br BRA,MF,Cruzeiro,25,1993,14,8,757,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+318,Jailson\Jailson,br BRA,GK,Palmeiras,37,1981,4,4,360,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+319,Jair\Jair,br BRA,MF,Atlético Mineiro,24,1994,13,10,822,2,0,0,0,3,0,0.22,0.00,0.22,0.22,0.22,Matches
+320,Jairinho\Jairinho,br BRA,FW,Vasco da Gama,22,1996,4,0,94,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+321,Janderson\Janderson,br BRA,MF,Corinthians,19,1999,20,10,968,2,1,0,0,0,0,0.19,0.09,0.28,0.19,0.28,Matches
+322,Jean\Jean,br BRA,DF,Palmeiras,32,1986,8,4,420,0,1,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches
+323,Jean\Jean,br BRA,GK,São Paulo,23,1995,1,0,,0,0,0,0,1,0,,,,,,Matches
+324,Jean\Jean,br BRA,MF,Botafogo (RJ),24,1994,8,1,175,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+325,Jefferson\Jefferson,br BRA,DF,Goiás,22,1997,33,31,2651,1,2,0,0,5,0,0.03,0.07,0.10,0.03,0.10,Matches
+326,Matheus Jesus\Matheus-Jesus,br BRA,MF,Corinthians,21,1997,6,2,203,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+327,Jobson\Jobson,br BRA,MF,Santos,23,1995,4,1,119,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+328,Diederrick Joel\Diederrick-Joel,cm CMR,FW,Cruzeiro,25,1993,4,1,131,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+329,Jonas\Jonas,br BRA,MFFW,São Paulo,19,1999,17,11,947,3,1,0,0,1,1,0.29,0.10,0.38,0.29,0.38,Matches
+330,Felipe Jonatan\Felipe-Jonatan,br BRA,MF,Santos,20,1998,26,12,1138,2,0,0,0,0,0,0.16,0.00,0.16,0.16,0.16,Matches
+331,Jonathan\Jonathan,br BRA,DF,Botafogo (RJ),20,1998,5,4,368,0,2,0,0,2,0,0.00,0.49,0.49,0.00,0.49,Matches
+332,Jonathan\Jonathan,br BRA,FW,Avaí,19,1999,16,13,1171,3,0,0,0,3,0,0.23,0.00,0.23,0.23,0.23,Matches
+333,Jorge\Jorge,br BRA,DFMF,Santos,22,1996,29,28,2558,1,4,0,0,4,0,0.04,0.14,0.18,0.04,0.18,Matches
+334,Kaio Jorge\Kaio-Jorge,br BRA,FW,Santos,17,2002,3,0,22,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+335,Juan\Juan,br BRA,DF,Flamengo,39,1979,1,0,,0,0,0,0,0,0,,,,,,Matches
+336,Juan\Juan,br BRA,FW,São Paulo,16,2002,1,1,52,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+337,Juanfran\Juanfran,es ESP,DF,São Paulo,34,1985,17,14,1162,0,2,0,0,2,0,0.00,0.15,0.15,0.00,0.15,Matches
+338,Jucilei\Jucilei,br BRA,MF,São Paulo,30,1988,4,4,221,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+339,Igor Julião\Igor-Juliao,br BRA,DF,Fluminense,24,1994,15,8,790,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+340,Julinho\Julinho,br BRA,MFDF,Avaí,32,1986,9,6,525,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+341,Juninho\Juninho,br BRA,DF,Bahia,23,1995,27,27,2430,1,0,0,0,1,0,0.04,0.00,0.04,0.04,0.04,Matches
+342,Juninho\Juninho,br BRA,MF,Fortaleza,32,1986,32,30,2713,3,6,2,2,5,0,0.10,0.20,0.30,0.03,0.23,Matches
+343,Helio Junio\Helio-Junio,br BRA,FW,São Paulo,18,2000,8,1,172,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+344,Gerson Júnior\Gerson-Junior,br BRA,FW,CSA,19,1999,2,0,15,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+345,Marcos Júnior\Marcos-Junior,br BRA,MF,Vasco da Gama,23,1995,27,18,1698,3,0,0,0,5,0,0.16,0.00,0.16,0.16,0.16,Matches
+346,Renê Júnior\Rene-Junior,br BRA,MF,Corinthians,29,1989,1,0,28,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+347,Walter Kannemann\Walter-Kannemann,ar ARG,DF,Grêmio,21,1997,17,17,1530,1,0,0,0,8,0,0.06,0.00,0.06,0.06,0.06,Matches
+348,Kanu\Kanu,br BRA,DF,Botafogo (RJ),21,1997,3,0,134,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+349,Renato Kayser\Renato-Kayser,br BRA,MFFW,Chapecoense,22,1996,14,3,391,1,2,0,0,0,0,0.23,0.46,0.69,0.23,0.69,Matches
+350,Kelvin\Kelvin,br BRA,FWMF,Fluminense,25,1993,1,0,1,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+351,Pedro Ken\Pedro-Ken,br BRA,MF,Ceará,31,1987,16,7,775,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+352,Kevin\Kevin,br BRA,DF,Goiás,21,1997,5,3,249,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+353,Khellven\Khellven,br BRA,DF,Atl Paranaense,17,2001,5,4,405,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+354,Kieza\Kieza,br BRA,FWMF,Fortaleza,32,1986,24,10,1164,1,0,0,0,2,0,0.08,0.00,0.08,0.08,0.08,Matches
+355,Willian Klaus\Willian-Klaus,br BRA,DF,Internacional,25,1994,10,6,742,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+356,Eduardo Kunde\Eduardo-Kunde,br BRA,DF,Avaí,21,1997,12,12,1016,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+357,Victor Leandro Bagy\Victor-Leandro-Bagy,br BRA,GK,Atlético Mineiro,36,1983,10,10,900,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+358,Léo\Leo,br BRA,GK,Atl Paranaense,28,1990,7,7,630,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+359,Léo\Leo,br BRA,DF,Cruzeiro,31,1988,18,18,1620,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+360,Lima\Lima,br BRA,MF,Ceará,22,1996,15,14,1071,1,1,0,0,4,1,0.08,0.08,0.17,0.08,0.17,Matches
+361,Erik Lima\Erik-Lima,br BRA,MFFW,Botafogo (RJ),24,1994,10,10,828,1,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches
+362,Gabriel Lima\Gabriel-Lima,br BRA,FW,Avaí,40,1978,6,0,197,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+363,Lucas Lima\Lucas-Lima,br BRA,MF,Palmeiras,28,1990,23,12,1174,1,4,0,0,5,1,0.08,0.31,0.38,0.08,0.38,Matches
+364,Lincoln\Lincoln,br BRA,FW,Flamengo,18,2000,11,4,391,3,2,0,0,1,0,0.69,0.46,1.15,0.69,1.15,Matches
+365,Rodrigo Lindoso\Rodrigo-Lindoso,br BRA,MF,Internacional,29,1989,27,27,2374,4,2,0,0,5,0,0.15,0.08,0.23,0.15,0.23,Matches
+366,Liziero\Liziero,br BRA,MF,São Paulo,20,1998,21,16,1197,0,1,0,0,2,0,0.00,0.08,0.08,0.00,0.08,Matches
+367,Vini Locatelli\Vini-Locatelli,br BRA,MF,Chapecoense,20,1998,12,4,440,1,1,0,0,0,0,0.20,0.20,0.41,0.20,0.41,Matches
+368,Renan Lodi\Renan-Lodi,br BRA,DF,Atl Paranaense,20,1998,3,3,262,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+369,Marcelo Lomba\Marcelo-Lomba,br BRA,GK,Internacional,32,1986,34,34,3020,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+370,Maxi López\Maxi-Lopez,ar ARG,FW,Vasco da Gama,34,1984,5,5,418,2,0,1,1,1,0,0.43,0.00,0.43,0.22,0.22,Matches
+371,Nicolás López\Nicolas-Lopez,uy URU,FWMF,Internacional,25,1993,25,19,1593,1,3,0,0,5,0,0.06,0.17,0.23,0.06,0.23,Matches
+372,Lourenço\Lourenco,br BRA,DFMF,Avaí,21,1997,27,25,2117,1,3,0,0,3,0,0.04,0.13,0.17,0.04,0.17,Matches
+373,Lourency\Lourency,br BRA,MF,Chapecoense,23,1996,1,0,36,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+374,Vágner Love\Vagner-Love,br BRA,FWMF,Corinthians,34,1984,28,18,1758,5,1,1,1,5,0,0.26,0.05,0.31,0.20,0.26,Matches
+375,Luan\Luan,br BRA,MF,São Paulo,19,1999,23,18,1605,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+376,Luan\Luan,br BRA,MF,Atlético Mineiro,28,1990,28,24,2091,4,1,0,1,5,0,0.17,0.04,0.22,0.17,0.22,Matches
+377,Luanderson\Luanderson,br BRA,MF,Avaí,29,1989,13,12,947,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+378,Lucão\Lucao,br BRA,DF,Goiás,22,1996,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+379,Lucão\Lucao,br BRA,FW,Fluminense,27,1991,6,0,74,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+380,João Lucas Cardoso\Joao-Lucas-Cardoso,br BRA,DF,Ceará,27,1991,32,31,2770,1,0,0,0,3,0,0.03,0.00,0.03,0.03,0.03,Matches
+381,Jean Lucas\Jean-Lucas,br BRA,MF,Santos,20,1998,9,8,628,0,1,0,0,2,0,0.00,0.14,0.14,0.00,0.14,Matches
+382,João Lucas\Joao-Lucas,br BRA,DF,Flamengo,20,1998,6,2,214,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+383,Pedro Lucas\Pedro-Lucas,br BRA,FW,Internacional,20,1998,5,0,63,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+384,Lucca\Lucca,br BRA,MFFW,Bahia,28,1990,17,10,869,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+385,Luciano\Luciano,br BRA,MFFW,Fluminense,25,1993,6,6,520,2,1,0,1,3,0,0.35,0.17,0.52,0.35,0.52,Matches
+386,Luciano\Luciano,br BRA,MFFW,Grêmio,25,1993,19,16,1242,5,3,2,2,3,0,0.36,0.22,0.58,0.22,0.43,Matches
+387,André Luis\Andre-Luis,br BRA,MF,Corinthians,21,1997,1,1,65,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+388,André Luis\Andre-Luis,br BRA,FWMF,Fortaleza,21,1997,24,17,1389,2,0,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches
+389,Filipe Luís\Filipe-Luis,br BRA,DF,Flamengo,33,1985,16,15,1273,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+390,Victor Luis\Victor-Luis,br BRA,DF,Palmeiras,25,1993,5,5,450,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+391,Madson\Madson,br BRA,MF,CSA,32,1986,6,4,356,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+392,Mádson\Madson,br BRA,DF,Atl Paranaense,27,1992,27,26,2340,5,1,0,0,2,0,0.19,0.04,0.23,0.19,0.23,Matches
+393,Moisés Magalhães\Moises-Magalhaes,br BRA,MF,Palmeiras,30,1988,9,2,314,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+394,Talles Magno\Talles-Magno,br BRA,MFFW,Vasco da Gama,16,2002,15,12,1065,2,0,0,0,4,0,0.17,0.00,0.17,0.17,0.17,Matches
+395,Cristian Maidana\Cristian-Maidana,ar ARG,MF,CSA,32,1987,1,1,25,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+396,Iago Maidana\Iago-Maidana,br BRA,DF,Atlético Mineiro,22,1996,7,7,630,1,0,0,0,2,0,0.14,0.00,0.14,0.14,0.14,Matches
+397,Manoel\Manoel,br BRA,DF,Corinthians,28,1990,31,31,2790,1,0,0,0,2,0,0.03,0.00,0.03,0.03,0.03,Matches
+398,Luis Manuel Orejuela\Luis-Manuel-Orejuela,co COL,DF,Cruzeiro,23,1995,23,23,1820,2,0,0,0,4,1,0.10,0.00,0.10,0.10,0.10,Matches
+399,Maranhão\Maranhao,br BRA,MFFW,CSA,28,1990,11,7,684,1,0,0,0,0,0,0.13,0.00,0.13,0.13,0.13,Matches
+400,Marcelo\Marcelo,br BRA,DF,Botafogo (RJ),23,1996,17,17,1453,2,1,0,0,3,0,0.12,0.06,0.19,0.12,0.19,Matches
+401,Marcinho\Marcinho,br BRA,FWMF,Goiás,23,1995,3,0,39,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+402,Marcinho\Marcinho,br BRA,MF,Avaí,19,1999,3,1,76,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+403,Marcinho\Marcinho,br BRA,DFMF,Botafogo (RJ),22,1996,25,23,2102,1,4,0,0,2,0,0.04,0.17,0.21,0.04,0.21,Matches
+404,Marcinho\Marcinho,br BRA,MF,Fortaleza,23,1995,8,6,472,2,2,0,0,2,0,0.38,0.38,0.76,0.38,0.76,Matches
+405,Zé Marcos\Ze-Marcos,br BRA,DF,Avaí,20,1998,3,3,209,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+406,Pablo Marí\Pablo-Mari,es ESP,DF,Flamengo,25,1993,22,22,1980,2,1,0,0,4,0,0.09,0.05,0.14,0.09,0.14,Matches
+407,Marinho\Marinho,br BRA,FWMF,Grêmio,28,1990,2,0,47,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+408,Marinho\Marinho,br BRA,FW,Santos,28,1990,27,18,1690,8,4,0,0,13,1,0.43,0.21,0.64,0.43,0.64,Matches
+409,Rodriguinho Marinho\Rodriguinho-Marinho,br BRA,MF,Cruzeiro,30,1988,5,4,296,1,0,0,0,2,0,0.30,0.00,0.30,0.30,0.30,Matches
+410,Marlon\Marlon,br BRA,MF,Fortaleza,28,1990,19,3,563,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+411,Marlone\Marlone,br BRA,MF,Goiás,26,1992,16,4,585,2,0,0,0,1,0,0.31,0.00,0.31,0.31,0.31,Matches
+412,Brenner Marlos\Brenner-Marlos,br BRA,FW,Avaí,24,1994,14,12,934,2,0,1,1,4,1,0.19,0.00,0.19,0.10,0.10,Matches
+413,Maicon Marques\Maicon-Marques,br BRA,MF,Atlético Mineiro,28,1990,11,1,352,0,2,0,0,2,0,0.00,0.51,0.51,0.00,0.51,Matches
+414,Marquinho\Marquinho,br BRA,MFFW,Vasco da Gama,32,1986,7,5,322,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+415,Marquinhos\Marquinhos,br BRA,MF,Atlético Mineiro,19,1999,12,7,669,1,3,0,0,0,0,0.13,0.40,0.54,0.13,0.54,Matches
+416,Marquinhos\Marquinhos,br BRA,DF,Avaí,36,1982,19,18,1624,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+417,Marrony\Marrony,br BRA,FWMF,Vasco da Gama,19,1999,34,30,2636,4,2,0,0,9,1,0.14,0.07,0.20,0.14,0.20,Matches
+418,Ramón Martínez\Ramon-Martinez,py PAR,MF,Atlético Mineiro,23,1996,10,8,655,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+419,Anderson Martins\Anderson-Martins,br BRA,DF,São Paulo,31,1987,11,10,896,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+420,Wellington Martins\Wellington-Martins,br BRA,MF,Atl Paranaense,28,1991,29,28,2415,0,1,0,0,12,0,0.00,0.04,0.04,0.00,0.04,Matches
+421,Matheus Mascarenhas\Matheus-Mascarenhas,br BRA,DF,Fluminense,20,1998,1,0,45,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+422,Matheus\Matheus,br BRA,FW,Avaí,20,1998,4,0,115,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+423,Mauricio\Mauricio,br BRA,MFFW,Cruzeiro,17,2001,8,2,296,1,0,0,0,0,0,0.30,0.00,0.30,0.30,0.30,Matches
+424,Mayke\Mayke,br BRA,DF,Palmeiras,26,1992,6,5,391,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+425,Phelipe Megiolaro\Phelipe-Megiolaro,br BRA,GK,Grêmio,19,1999,2,2,180,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+426,Alexandre Melo\Alexandre-Melo,br BRA,DF,Vasco da Gama,19,1999,1,0,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+427,Bruno Melo\Bruno-Melo,br BRA,DF,Fortaleza,26,1992,14,13,1182,3,3,1,2,3,1,0.23,0.23,0.46,0.15,0.38,Matches
+428,Felipe Melo\Felipe-Melo,br BRA,MF,Palmeiras,35,1983,24,24,2041,3,1,0,0,10,1,0.13,0.04,0.18,0.13,0.18,Matches
+429,Rodolfo de Melo\Rodolfo-de-Melo,br BRA,GK,Fluminense,27,1991,6,5,471,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+430,Darlan Mendes\Darlan-Mendes,br BRA,MF,Grêmio,20,1998,13,6,596,0,1,0,0,1,0,0.00,0.15,0.15,0.00,0.15,Matches
+431,Edílson Mendes\Edilson-Mendes,br BRA,DF,Cruzeiro,32,1986,13,9,888,0,0,0,0,5,2,0.00,0.00,0.00,0.00,0.00,Matches
+432,Bruno Méndez\Bruno-Mendez,uy URU,DF,Corinthians,19,1999,6,5,522,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+433,Michael\Michael,br BRA,MFFW,Goiás,22,1996,35,35,3033,9,5,0,0,6,1,0.27,0.15,0.42,0.27,0.42,Matches
+434,Michel\Michel,br BRA,MFDF,Grêmio,28,1990,22,20,1706,0,1,0,0,5,0,0.00,0.05,0.05,0.00,0.05,Matches
+435,Michel\Michel,br BRA,DF,Corinthians,28,1990,10,9,697,1,0,0,0,1,1,0.13,0.00,0.13,0.13,0.13,Matches
+436,Fernando Miguel\Fernando-Miguel,br BRA,GK,Vasco da Gama,33,1985,30,30,2655,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+437,Lucas Mineiro\Lucas-Mineiro,br BRA,MF,Vasco da Gama,22,1996,11,8,712,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+438,Miranda\Miranda,br BRA,DF,Vasco da Gama,19,2000,1,1,68,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+439,Paulo Miranda\Paulo-Miranda,br BRA,DF,Grêmio,30,1988,12,10,945,1,0,0,0,2,0,0.10,0.00,0.10,0.10,0.10,Matches
+440,Moisés\Moises,br BRA,DF,Bahia,23,1995,30,30,2567,0,2,0,0,4,1,0.00,0.07,0.07,0.00,0.07,Matches
+441,Rodrigo Moledo\Rodrigo-Moledo,br BRA,DF,Internacional,31,1987,17,16,1308,1,0,0,0,2,0,0.07,0.00,0.07,0.07,0.07,Matches
+442,Walter Montoya\Walter-Montoya,ar ARG,MF,Grêmio,25,1993,3,3,217,0,1,0,0,0,0,0.00,0.41,0.41,0.00,0.41,Matches
+443,Leonardo Morais\Leonardo-Morais,br BRA,DF,Avaí,27,1991,18,15,1308,0,2,0,0,8,2,0.00,0.14,0.14,0.00,0.14,Matches
+444,Jonathan Moreira\Jonathan-Moreira,br BRA,DF,Atl Paranaense,32,1986,7,6,498,1,0,1,1,2,0,0.18,0.00,0.18,0.00,0.00,Matches
+445,André Moritz\Andre-Moritz,br BRA,FWMF,Avaí,32,1986,4,0,107,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00,Matches
+446,Jonny Mosquera\Jonny-Mosquera,co COL,MF,Avaí,27,1991,11,4,461,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+447,Jean Mota\Jean-Mota,br BRA,MFFW,Santos,25,1993,27,13,1266,1,1,1,1,3,0,0.07,0.07,0.14,0.00,0.07,Matches
+448,Hugo Moura\Hugo-Moura,br BRA,MF,Flamengo,21,1998,2,1,90,0,1,0,0,1,0,0.00,1.00,1.00,0.00,1.00,Matches
+449,Léo Moura\Leo-Moura,br BRA,DF,Grêmio,40,1978,19,17,1483,0,1,0,0,1,0,0.00,0.06,0.06,0.00,0.06,Matches
+450,Rafael Moura\Rafael-Moura,br BRA,FW,Goiás,35,1983,23,19,1601,9,1,2,2,6,1,0.51,0.06,0.56,0.39,0.45,Matches
+451,Naldo\Naldo,br BRA,MF,CSA,28,1990,24,21,1749,0,3,0,0,5,0,0.00,0.15,0.15,0.00,0.15,Matches
+452,Andrey Ramos do Nascimento\Andrey-Ramos-do-Nascimento,br BRA,MF,Vasco da Gama,20,1998,17,9,828,1,1,0,0,2,0,0.11,0.11,0.22,0.11,0.22,Matches
+453,Natanael\Natanael,br BRA,DF,Internacional,28,1990,7,7,547,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+454,Nathan\Nathan,br BRA,MF,Atlético Mineiro,22,1996,20,12,1138,4,0,0,0,3,0,0.32,0.00,0.32,0.32,0.32,Matches
+455,Vitor Naum\Vitor-Naum,br BRA,MFFW,Atl Paranaense,19,1999,16,6,692,2,2,0,0,3,1,0.26,0.26,0.52,0.26,0.52,Matches
+456,Bruno Nazário\Bruno-Nazario,br BRA,MF,Atl Paranaense,23,1995,14,6,658,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+457,Neílton\Neilton,br BRA,MFFW,Internacional,24,1994,16,9,765,1,0,0,0,2,0,0.12,0.00,0.12,0.12,0.12,Matches
+458,Wellington Nem\Wellington-Nem,br BRA,MF,Fluminense,26,1992,18,6,733,1,0,0,0,3,0,0.12,0.00,0.12,0.12,0.12,Matches
+459,Nenê\Nene,br BRA,MF,Fluminense,37,1981,25,19,1618,3,2,1,1,5,1,0.17,0.11,0.28,0.11,0.22,Matches
+460,Nenê\Nene,br BRA,FWMF,São Paulo,37,1981,2,0,45,0,1,0,0,0,0,0.00,2.00,2.00,0.00,2.00,Matches
+461,Thiago Neves\Thiago-Neves,br BRA,MF,Cruzeiro,33,1985,28,25,2112,6,5,1,2,8,0,0.26,0.21,0.47,0.21,0.43,Matches
+462,Nikão\Nikao,br BRA,MFFW,Atl Paranaense,26,1992,23,20,1704,5,2,1,1,3,0,0.26,0.11,0.37,0.21,0.32,Matches
+463,Nílton\Nilton,br BRA,MF,Bahia,31,1987,1,0,4,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+464,Nílton\Nilton,br BRA,MF,CSA,31,1987,12,12,892,1,0,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches
+465,Nino\Nino,br BRA,DF,Fluminense,21,1997,36,36,3239,1,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06,Matches
+466,Nonato\Nonato,br BRA,MF,Internacional,20,1998,26,20,1735,3,1,0,0,3,0,0.16,0.05,0.21,0.16,0.21,Matches
+467,Kaio Nunes\Kaio-Nunes,br BRA,MF,Goiás,23,1996,13,1,255,0,1,0,0,0,0,0.00,0.35,0.35,0.00,0.35,Matches
+468,Yuri Oliveira Lima\Yuri-Oliveira-Lima,br BRA,MFDF,Fluminense,24,1994,25,21,1811,0,0,0,0,9,0,0.00,0.00,0.00,0.00,0.00,Matches
+469,Paulinho Oliveira\Paulinho-Oliveira,br BRA,DF,Avaí,30,1988,6,6,511,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+470,Ricardo Oliveira\Ricardo-Oliveira,br BRA,FW,Atlético Mineiro,38,1980,21,15,1159,2,2,0,1,0,0,0.16,0.16,0.31,0.16,0.31,Matches
+471,William Oliveira\William-Oliveira,br BRA,MF,Ceará,26,1992,14,11,912,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00,Matches
+472,Orinho\Orinho,br BRA,DF,Fluminense,23,1995,5,3,234,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+473,Osvaldo\Osvaldo,br BRA,MF,Fortaleza,31,1987,32,22,1722,8,5,0,0,3,1,0.42,0.26,0.68,0.42,0.68,Matches
+474,Nathan Otávio Ribeiro\Nathan-Otavio-Ribeiro,br BRA,DF,Fortaleza,28,1990,5,3,306,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00,Matches
+475,Luiz Otávio\Luiz-Otavio,br BRA,DF,Ceará,30,1988,26,26,2264,2,1,0,0,7,0,0.08,0.04,0.12,0.08,0.12,Matches
+476,Rómulo Otero\Romulo-Otero,ve VEN,MF,Atlético Mineiro,26,1992,20,14,1271,3,1,0,0,6,0,0.21,0.07,0.28,0.21,0.28,Matches
+477,Pablo\Pablo,br BRA,FW,São Paulo,26,1992,13,13,1030,3,1,0,0,3,0,0.26,0.09,0.35,0.26,0.35,Matches
+478,Henrique Pacheco Lima\Henrique-Pacheco-Lima,br BRA,MF,Cruzeiro,33,1985,33,33,2970,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+479,Bruno Pacheco\Bruno-Pacheco,br BRA,DF,Chapecoense,27,1991,33,33,2931,0,5,0,0,6,1,0.00,0.15,0.15,0.00,0.15,Matches
+480,Giovanni Palmieri\Giovanni-Palmieri,br BRA,DFMF,Bahia,29,1989,10,8,756,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+481,Papagaio\Papagaio,br BRA,FW,Goiás,19,1999,4,1,149,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+482,Papagaio\Papagaio,br BRA,FW,Atlético Mineiro,19,1999,5,1,125,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+483,Pará\Para,br BRA,DF,Santos,32,1986,11,8,810,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+484,Pará\Para,br BRA,DF,Flamengo,32,1986,6,6,531,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+485,Nino Paraíba\Nino-Paraiba,br BRA,DF,Bahia,33,1986,29,28,2501,2,4,0,0,4,0,0.07,0.14,0.22,0.07,0.22,Matches
+486,Victor Paraíba\Victor-Paraiba,br BRA,MF,CSA,20,1998,9,1,271,0,1,0,0,0,0,0.00,0.33,0.33,0.00,0.33,Matches
+487,Guilherme Parede\Guilherme-Parede,br BRA,MFFW,Internacional,23,1995,25,14,1365,3,2,0,0,2,0,0.20,0.13,0.33,0.20,0.33,Matches
+488,Alexandre Pato\Alexandre-Pato,br BRA,FWMF,São Paulo,29,1989,20,18,1442,5,0,0,0,2,0,0.31,0.00,0.31,0.31,0.31,Matches
+489,Patrick\Patrick,br BRA,MFFW,Internacional,26,1992,24,20,1743,2,1,0,0,5,0,0.10,0.05,0.15,0.10,0.15,Matches
+490,Patrick\Patrick,br BRA,MF,Grêmio,20,1998,18,1,333,2,0,0,0,1,0,0.54,0.00,0.54,0.54,0.54,Matches
+491,Marcos de Paula Dutra\Marcos-de-Paula-Dutra,br BRA,GK,Goiás,25,1993,1,0,32,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+492,Paulão\Paulao,br BRA,DF,Fortaleza,32,1986,12,11,1004,2,0,0,0,3,1,0.18,0.00,0.18,0.18,0.18,Matches
+493,Paulinho\Paulinho,br BRA,DF,Bahia,24,1995,2,2,180,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+494,Caio Paulista\Caio-Paulista,br BRA,MFFW,Avaí,20,1998,26,23,2021,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+495,Wellington Paulista\Wellington-Paulista,br BRA,FW,Fortaleza,34,1984,31,28,2435,13,3,5,5,7,0,0.48,0.11,0.59,0.30,0.41,Matches
+496,João Paulo Mior\Joao-Paulo-Mior,br BRA,MF,Botafogo (RJ),27,1991,36,36,2969,3,2,0,0,5,0,0.09,0.06,0.15,0.09,0.15,Matches
+497,João Paulo\Joao-Paulo,br BRA,MFFW,Avaí,28,1990,28,22,2085,5,0,3,3,8,1,0.22,0.00,0.22,0.09,0.09,Matches
+498,Marcos Paulo\Marcos-Paulo,br BRA,MFFW,Fluminense,17,2001,24,16,1394,4,4,0,0,0,0,0.26,0.26,0.52,0.26,0.52,Matches
+499,Pedrinho\Pedrinho,br BRA,MF,Corinthians,20,1998,28,26,2181,5,4,0,0,0,0,0.21,0.17,0.37,0.21,0.37,Matches
+500,Pedrinho\Pedrinho,br BRA,FW,Atl Paranaense,19,1999,6,1,126,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+501,Pedro\Pedro,br BRA,FW,Fluminense,21,1997,10,7,627,5,0,2,2,0,0,0.72,0.00,0.72,0.43,0.43,Matches
+502,João Pedro\Joao-Pedro,br BRA,MFDF,Bahia,22,1996,12,11,890,1,0,0,0,3,0,0.10,0.00,0.10,0.10,0.10,Matches
+503,João Pedro\Joao-Pedro,br BRA,FWMF,Fluminense,17,2001,25,18,1694,4,1,0,0,1,0,0.21,0.05,0.27,0.21,0.27,Matches
+504,Jarro Pedroso\Jarro-Pedroso,br BRA,FW,CSA,25,1993,5,0,114,1,0,0,0,1,0,0.79,0.00,0.79,0.79,0.79,Matches
+505,Léo Pelé\Leo-Pele,br BRA,DF,São Paulo,22,1996,5,3,282,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+506,Pepê\Pepe,br BRA,MF,Grêmio,21,1997,32,14,1679,7,3,1,1,2,0,0.38,0.16,0.54,0.32,0.48,Matches
+507,Egídio Pereira Júnior\Egidio-Pereira-Junior,br BRA,DF,Cruzeiro,32,1986,25,24,2049,0,1,0,0,4,1,0.00,0.04,0.04,0.00,0.04,Matches
+508,Léo Pereira\Leo-Pereira,br BRA,DF,Atl Paranaense,23,1996,29,29,2582,2,0,0,0,7,0,0.07,0.00,0.07,0.07,0.07,Matches
+509,Luan Pereira\Luan-Pereira,br BRA,FWMF,Avaí,18,2000,17,4,593,0,1,0,0,4,0,0.00,0.15,0.15,0.00,0.15,Matches
+510,Rafael Pereira\Rafael-Pereira,br BRA,DF,Chapecoense,34,1984,17,15,1309,1,0,0,0,4,0,0.07,0.00,0.07,0.07,0.07,Matches
+511,Luan Peres Petroni\Luan-Peres-Petroni,br BRA,DF,Santos,24,1994,9,8,580,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00,Matches
+512,Pedro Perotti\Pedro-Perotti,br BRA,FW,Chapecoense,21,1997,1,0,7,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+513,Lucas Perri\Lucas-Perri,br BRA,GK,São Paulo,21,1997,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+514,Yago Pikachu\Yago-Pikachu,br BRA,DFMF,Vasco da Gama,26,1992,36,36,3189,5,2,5,6,7,0,0.14,0.06,0.20,0.00,0.06,Matches
+515,Rodrigo Pimpão\Rodrigo-Pimpao,br BRA,MFFW,Botafogo (RJ),31,1987,19,11,1005,0,3,0,0,6,0,0.00,0.27,0.27,0.00,0.27,Matches
+516,Felipe Pires\Felipe-Pires,br BRA,FWMF,Palmeiras,23,1995,2,0,13,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+517,Felipe Pires\Felipe-Pires,br BRA,MFFW,Fortaleza,23,1995,11,5,539,1,1,0,0,0,0,0.17,0.17,0.33,0.17,0.33,Matches
+518,Rafael Pires\Rafael-Pires,br BRA,GK,Cruzeiro,29,1989,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+519,Lucas Piton\Lucas-Piton,br BRA,DF,Corinthians,18,2000,1,0,45,0,1,0,0,0,0,0.00,2.00,2.00,0.00,2.00,Matches
+520,Diego Pituca\Diego-Pituca,br BRA,MF,Santos,26,1992,35,31,2790,2,1,0,0,8,0,0.06,0.03,0.10,0.06,0.10,Matches
+521,Vinícius Popó\Vinicius-Popo,br BRA,FW,Cruzeiro,17,2001,2,0,39,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+522,Willian Popp\Willian-Popp,br BRA,FW,Ceará,24,1994,1,1,59,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+523,William Pottker\William-Pottker,br BRA,MFFW,Internacional,25,1993,10,7,516,4,0,0,0,1,0,0.70,0.00,0.70,0.70,0.70,Matches
+524,Matheus Prado\Matheus-Prado,br BRA,MF,CSA,18,2000,2,0,14,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+525,Fernando Prass\Fernando-Prass,br BRA,GK,Palmeiras,40,1978,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+526,Jean Pyerre\Jean-Pyerre,br BRA,MF,Grêmio,20,1998,10,10,813,3,1,0,0,0,0,0.33,0.11,0.44,0.33,0.44,Matches
+527,Juan Quintero\Juan-Quintero,co COL,DF,Fortaleza,23,1995,37,37,3309,1,0,0,0,5,0,0.03,0.00,0.03,0.03,0.03,Matches
+528,Juninho Quixadá\Juninho-Quixada,br BRA,FW,Ceará,33,1985,6,0,121,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+529,Igor Rabello\Igor-Rabello,br BRA,DF,Atlético Mineiro,23,1995,33,33,2922,0,1,0,0,5,1,0.00,0.03,0.03,0.00,0.03,Matches
+530,Zé Rafael\Ze-Rafael,br BRA,MF,Palmeiras,25,1993,27,23,1727,5,5,0,0,6,0,0.26,0.26,0.52,0.26,0.52,Matches
+531,Rafinha\Rafinha,br BRA,DF,Flamengo,33,1985,20,18,1568,0,5,0,0,8,0,0.00,0.29,0.29,0.00,0.29,Matches
+532,Rafinha\Rafinha,br BRA,MF,Cruzeiro,35,1983,1,0,21,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+533,Rafinha\Rafinha,br BRA,MFFW,Goiás,26,1992,10,3,335,1,0,0,0,2,0,0.27,0.00,0.27,0.27,0.27,Matches
+534,Rafinha\Rafinha,br BRA,DF,CSA,31,1987,10,6,623,1,1,0,0,0,0,0.14,0.14,0.29,0.14,0.29,Matches
+535,Ralf\Ralf,br BRA,MF,Corinthians,34,1984,23,22,1921,1,0,0,0,1,0,0.05,0.00,0.05,0.05,0.05,Matches
+536,Ramires\Ramires,br BRA,MF,Palmeiras,31,1987,6,2,160,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+537,Bruno Ramires\Bruno-Ramires,br BRA,MF,CSA,24,1994,3,3,193,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+538,Eric Ramires\Eric-Ramires,br BRA,MF,Bahia,18,2000,14,9,760,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+539,Ramon\Ramon,br BRA,DF,Avaí,19,1999,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+540,Maurício Ramos\Mauricio-Ramos,br BRA,DF,Chapecoense,33,1985,17,12,1098,1,0,0,0,3,0,0.08,0.00,0.08,0.08,0.08,Matches
+541,Marcelo Rangel\Marcelo-Rangel,br BRA,GK,Goiás,30,1988,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+542,Victor Rangel\Victor-Rangel,br BRA,FW,Botafogo (RJ),28,1990,14,6,551,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+543,Raniel\Raniel,br BRA,FW,São Paulo,22,1996,14,8,799,1,1,0,0,2,1,0.11,0.11,0.23,0.11,0.23,Matches
+544,Raniel\Raniel,br BRA,FW,Cruzeiro,22,1996,2,0,50,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+545,Raul\Raul,br BRA,MF,Vasco da Gama,22,1996,30,28,2465,1,3,0,0,9,0,0.04,0.11,0.15,0.04,0.15,Matches
+546,Régis\Regis,br BRA,MF,Corinthians,26,1992,6,0,85,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+547,Reinaldo\Reinaldo,br BRA,DF,São Paulo,29,1989,35,35,3114,5,1,3,4,8,0,0.14,0.03,0.17,0.06,0.09,Matches
+548,Reinier\Reinier,br BRA,MFFW,Flamengo,17,2002,14,8,709,6,2,0,0,1,0,0.76,0.25,1.02,0.76,1.02,Matches
+549,Tiago Reis\Tiago-Reis,br BRA,FW,Vasco da Gama,19,1999,11,3,363,1,1,0,0,1,0,0.25,0.25,0.50,0.25,0.50,Matches
+550,Renatinho\Renatinho,br BRA,MF,Goiás,27,1992,9,2,295,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+551,Renato\Renato,br BRA,MFDF,Chapecoense,29,1990,15,10,758,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+552,Renê\Rene,br BRA,DF,Flamengo,26,1992,23,18,1697,0,2,0,0,2,0,0.00,0.11,0.11,0.00,0.11,Matches
+553,Réver\Rever,br BRA,DFMF,Atlético Mineiro,34,1985,28,28,2430,1,1,0,0,3,0,0.04,0.04,0.07,0.04,0.07,Matches
+554,Rhodolfo\Rhodolfo,br BRA,DF,Flamengo,32,1986,9,8,683,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+555,Rhuan\Rhuan,br BRA,MF,Botafogo (RJ),19,2000,10,6,594,1,0,0,0,1,0,0.15,0.00,0.15,0.15,0.15,Matches
+556,Ribamar\Ribamar,br BRA,FW,Vasco da Gama,21,1997,21,15,1163,3,0,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches
+557,Everton Ribeiro\Everton-Ribeiro,br BRA,MF,Flamengo,29,1989,32,27,2456,2,7,0,0,3,0,0.07,0.26,0.33,0.07,0.33,Matches
+558,Ricardo\Ricardo,br BRA,DF,Vasco da Gama,21,1997,19,18,1533,1,0,0,0,2,1,0.06,0.00,0.06,0.06,0.06,Matches
+559,Ricardo\Ricardo,br BRA,DF,Avaí,26,1992,21,20,1734,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+560,João Ricardo Riedi\Joao-Ricardo-Riedi,br BRA,GK,Chapecoense,30,1988,13,13,1170,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+561,Paulo Ricardo\Paulo-Ricardo,br BRA,DF,Goiás,24,1994,1,0,3,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+562,Richard\Richard,br BRA,MF,Corinthians,24,1994,3,1,88,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+563,Richard\Richard,br BRA,GK,Ceará,27,1991,1,1,45,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+564,Richard\Richard,br BRA,MF,Vasco da Gama,24,1994,25,25,2201,0,1,0,0,9,0,0.00,0.04,0.04,0.00,0.04,Matches
+565,Rick\Rick,br BRA,MF,Ceará,19,1999,4,2,154,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+566,Rickson\Rickson,br BRA,MFDF,Botafogo (RJ),20,1998,6,2,227,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+567,Rildo\Rildo,br BRA,MF,Chapecoense,29,1989,4,3,275,2,0,0,0,1,0,0.65,0.00,0.65,0.65,0.65,Matches
+568,Francisco Rithely\Francisco-Rithely,br BRA,MF,Internacional,28,1991,8,7,560,0,1,0,0,0,0,0.00,0.16,0.16,0.00,0.16,Matches
+569,Jhonata Robert\Jhonata-Robert,br BRA,FW,Grêmio,19,1999,1,0,7,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+570,Roberto\Roberto,br BRA,DF,Internacional,20,1998,5,5,450,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+571,Bruno Roberto\Bruno-Roberto,br BRA,MF,Atlético Mineiro,18,2000,13,3,398,2,0,0,0,0,0,0.45,0.00,0.45,0.45,0.45,Matches
+572,Paulo Roberto\Paulo-Roberto,br BRA,MF,Fortaleza,31,1987,4,3,254,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+573,Robinho\Robinho,br BRA,MF,Cruzeiro,31,1987,27,22,1880,1,1,0,0,7,0,0.05,0.05,0.10,0.05,0.10,Matches
+574,Robinho\Robinho,br BRA,MF,CSA,23,1995,3,1,71,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+575,Pedro Rocha Neves\Pedro-Rocha-Neves,br BRA,MFFW,Cruzeiro,24,1994,23,17,1475,2,2,0,0,3,0,0.12,0.12,0.24,0.12,0.24,Matches
+576,Marcos Rocha\Marcos-Rocha,br BRA,DF,Palmeiras,30,1988,30,29,2615,2,3,0,0,4,0,0.07,0.10,0.17,0.07,0.17,Matches
+577,Yago Rocha\Yago-Rocha,br BRA,DF,Goiás,24,1994,21,20,1531,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00,Matches
+578,Rodinei\Rodinei,br BRA,DF,Flamengo,27,1992,17,12,1121,0,1,0,0,5,0,0.00,0.08,0.08,0.00,0.08,Matches
+579,Rodrigues\Rodrigues,br BRA,DF,Grêmio,21,1997,8,7,603,0,1,0,0,0,0,0.00,0.15,0.15,0.00,0.15,Matches
+580,Kayke Rodrigues\Kayke-Rodrigues,br BRA,FW,Goiás,30,1988,19,18,1495,6,3,2,2,3,0,0.36,0.18,0.54,0.24,0.42,Matches
+581,Rodrygo\Rodrygo,br BRA,FW,Santos,18,2001,4,4,360,1,2,0,0,1,0,0.25,0.50,0.75,0.25,0.75,Matches
+582,Roger\Roger,br BRA,FW,Ceará,34,1985,2,0,52,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+583,Rogério\Rogerio,br BRA,MF,Bahia,28,1990,13,1,348,1,0,0,0,0,0,0.26,0.00,0.26,0.26,0.26,Matches
+584,Romarinho\Romarinho,br BRA,MF,Fortaleza,24,1994,32,29,2297,3,5,0,0,1,0,0.12,0.20,0.31,0.12,0.31,Matches
+585,Romário\Romario,br BRA,FW,Ceará,26,1992,2,0,94,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+586,Braian Romero\Braian-Romero,ar ARG,MFFW,Atl Paranaense,27,1991,16,10,918,2,1,0,0,2,0,0.20,0.10,0.29,0.20,0.29,Matches
+587,Lucas Romero\Lucas-Romero,ar ARG,MFDF,Cruzeiro,24,1994,8,8,700,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+588,Rômulo\Romulo,br BRA,MF,Grêmio,28,1990,14,11,974,2,0,0,0,3,0,0.18,0.00,0.18,0.18,0.18,Matches
+589,Ronaldo\Ronaldo,br BRA,MF,Flamengo,22,1996,3,2,181,0,1,0,0,2,0,0.00,0.50,0.50,0.00,0.50,Matches
+590,Ronaldo\Ronaldo,br BRA,MF,Bahia,22,1996,14,10,841,0,0,0,0,4,1,0.00,0.00,0.00,0.00,0.00,Matches
+591,Ronei\Ronei,br BRA,MF,Chapecoense,20,1998,1,0,15,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+592,Rony\Rony,br BRA,MFFW,Atl Paranaense,23,1995,30,28,2448,6,8,0,0,6,0,0.22,0.29,0.51,0.22,0.51,Matches
+593,Leandro Rosa Souza\Leandro-Rosa-Souza,br BRA,DF,CSA,32,1986,2,1,97,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+594,Matheus Rossetto\Matheus-Rossetto,br BRA,MF,Atl Paranaense,22,1996,7,6,549,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+595,Rossi\Rossi,br BRA,MFFW,Vasco da Gama,25,1993,29,26,2242,2,4,1,2,9,0,0.08,0.16,0.24,0.04,0.20,Matches
+596,Ruan\Ruan,br BRA,DF,Grêmio,19,1999,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+597,Marco Ruben\Marco-Ruben,ar ARG,FW,Atl Paranaense,32,1986,23,19,1679,4,1,0,0,3,0,0.21,0.05,0.27,0.21,0.27,Matches
+598,Alan Ruschel\Alan-Ruschel,br BRA,DFMF,Goiás,29,1989,9,4,433,1,0,0,0,4,0,0.21,0.00,0.21,0.21,0.21,Matches
+599,Alan Ruschel\Alan-Ruschel,br BRA,MF,Chapecoense,29,1989,6,4,346,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+600,Safira\Safira,br BRA,MF,CSA,23,1995,7,1,148,0,1,0,0,1,0,0.00,0.61,0.61,0.00,0.61,Matches
+601,Fábio Sanches\Fabio-Sanches,br BRA,DF,Goiás,28,1991,25,25,2250,1,0,0,0,3,0,0.04,0.00,0.04,0.04,0.04,Matches
+602,Carlos Sánchez\Carlos-Sanchez,uy URU,MF,Santos,34,1984,34,27,2436,12,9,4,6,5,0,0.44,0.33,0.78,0.30,0.63,Matches
+603,Sandry\Sandry,br BRA,MF,Santos,16,2002,1,0,,0,0,0,0,0,0,,,,,,Matches
+604,Alex Santana\Alex-Santana,br BRA,MF,Botafogo (RJ),23,1995,24,19,1685,5,1,0,0,3,0,0.27,0.05,0.32,0.27,0.32,Matches
+605,Santos\Santos,br BRA,GK,Atl Paranaense,28,1990,28,28,2520,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+606,Alan Santos\Alan-Santos,br BRA,MF,Botafogo (RJ),27,1991,4,1,114,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+607,Cícero Santos\Cicero-Santos,br BRA,MF,Botafogo (RJ),34,1984,32,32,2803,3,1,0,0,9,0,0.10,0.03,0.13,0.10,0.13,Matches
+608,Emerson Santos\Emerson-Santos,br BRA,DF,Internacional,23,1995,11,10,836,1,0,0,0,3,0,0.11,0.00,0.11,0.11,0.11,Matches
+609,Fábio Santos\Fabio-Santos,br BRA,DF,Atlético Mineiro,33,1985,30,29,2679,4,1,3,3,5,0,0.13,0.03,0.17,0.03,0.07,Matches
+610,Júnior Santos\Junior-Santos,br BRA,FW,Fortaleza,24,1994,6,5,342,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+611,Lucas Santos\Lucas-Santos,br BRA,FW,Vasco da Gama,19,1999,1,0,11,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+612,Rafael Santos\Rafael-Santos,br BRA,DF,Cruzeiro,20,1998,2,1,81,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+613,Rafael Santos\Rafael-Santos,br BRA,DF,Flamengo,20,1998,1,0,26,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+614,Martín Sarrafiore\Martin-Sarrafiore,ar ARG,MFFW,Internacional,21,1997,19,5,647,3,0,0,0,4,0,0.42,0.00,0.42,0.42,0.42,Matches
+615,Eduardo Sasha\Eduardo-Sasha,br BRA,FW,Santos,26,1992,37,34,2977,14,3,0,0,2,0,0.42,0.09,0.51,0.42,0.51,Matches
+616,Sassá\Sassa,br BRA,FW,Cruzeiro,25,1994,24,9,913,3,0,0,0,3,1,0.30,0.00,0.30,0.30,0.30,Matches
+617,Yan Sasse\Yan-Sasse,br BRA,MF,Vasco da Gama,21,1997,6,4,342,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+618,Bruno Sávio\Bruno-Savio,br BRA,MFFW,Avaí,24,1994,5,3,212,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+619,Matheus Sávio\Matheus-Savio,br BRA,MF,CSA,21,1997,8,7,654,1,0,0,0,0,0,0.14,0.00,0.14,0.14,0.14,Matches
+620,Gustavo Scarpa\Gustavo-Scarpa,br BRA,MF,Palmeiras,25,1994,27,19,1570,4,4,2,3,1,0,0.23,0.23,0.46,0.11,0.34,Matches
+621,Cleiton Schwengber\Cleiton-Schwengber,br BRA,GK,Atlético Mineiro,21,1997,25,25,2250,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+622,Léo Sena\Leo-Sena,br BRA,MF,Goiás,23,1995,33,31,2478,0,2,0,0,8,1,0.00,0.07,0.07,0.00,0.07,Matches
+623,Shaylon\Shaylon,br BRA,MF,Bahia,21,1997,8,1,184,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+624,Sidão\Sidao,br BRA,GK,Vasco da Gama,36,1982,7,6,585,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+625,Luiz Eduardo da Silva dos Santos\Luiz-Eduardo-da-Silva-dos-Santos,br BRA,FW,Goiás,22,1996,4,0,61,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+626,Caíque Silva Sá\Caique-Silva-Sa,br BRA,DF,Chapecoense,26,1992,4,4,302,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+627,Alex Silva\Alex-Silva,br BRA,DF,Avaí,24,1994,1,1,90,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+628,Bergson da Silva\Bergson-da-Silva,br BRA,FW,Ceará,27,1991,22,12,1136,3,1,0,1,3,0,0.24,0.08,0.32,0.24,0.32,Matches
+629,Bruno Silva\Bruno-Silva,br BRA,FW,Chapecoense,18,2000,1,0,25,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+630,Bruno Silva\Bruno-Silva,br BRA,MF,Internacional,32,1986,9,7,590,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+631,Bruno Silva\Bruno-Silva,br BRA,MF,Fluminense,32,1986,4,4,351,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+632,Bruno Silva\Bruno-Silva,br BRA,DF,Vasco da Gama,30,1988,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+633,Caio Henrique Oliveira Silva\Caio-Henrique-Oliveira-Silva,br BRA,DF,Fluminense,21,1997,35,35,3150,1,2,0,0,1,0,0.03,0.06,0.09,0.03,0.09,Matches
+634,Cristovam da Silva\Cristovam-da-Silva,br BRA,DF,Ceará,28,1990,8,6,572,0,0,0,0,5,0,0.00,0.00,0.00,0.00,0.00,Matches
+635,Da Silva\Da-Silva,br BRA,FW,Grêmio,19,1999,3,0,26,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+636,Diogo Silva\Diogo-Silva,br BRA,GK,Ceará,32,1986,37,36,3285,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+637,Felipe Silva\Felipe-Silva,br BRA,MF,Ceará,28,1990,24,17,1412,1,2,0,0,2,0,0.06,0.13,0.19,0.06,0.19,Matches
+638,Gregore de Magalhães da Silva\Gregore-de-Magalhaes-da-Silva,br BRA,MF,Bahia,24,1994,34,34,3011,0,4,0,0,7,1,0.00,0.12,0.12,0.00,0.12,Matches
+639,Leonardo Silva\Leonardo-Silva,br BRA,DF,Atlético Mineiro,39,1979,18,14,1326,1,0,0,0,5,0,0.07,0.00,0.07,0.07,0.07,Matches
+640,Lucas Silva\Lucas-Silva,br BRA,MF,Cruzeiro,25,1993,6,2,266,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+641,Lucas Silva\Lucas-Silva,br BRA,MFFW,Flamengo,21,1998,9,3,232,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+642,Wellington Silva\Wellington-Silva,br BRA,FWMF,Internacional,26,1993,21,8,915,1,1,0,0,1,0,0.10,0.10,0.20,0.10,0.20,Matches
+643,Miguel Silveira\Miguel-Silveira,br BRA,FW,Fluminense,15,2003,3,0,53,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+644,Everton Soares\Everton-Soares,br BRA,MF,Grêmio,22,1996,30,23,2276,11,5,1,1,3,0,0.43,0.20,0.63,0.40,0.59,Matches
+645,Rafael Sóbis\Rafael-Sobis,br BRA,FWMF,Internacional,33,1985,20,12,1060,2,2,1,1,7,0,0.17,0.17,0.34,0.08,0.25,Matches
+646,Fernando Sobral\Fernando-Sobral,br BRA,MF,Ceará,24,1994,13,8,804,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+647,Junior Sornoza\Junior-Sornoza,ec ECU,MF,Corinthians,25,1994,20,17,1365,0,1,0,0,4,0,0.00,0.07,0.07,0.00,0.07,Matches
+648,Yeferson Soteldo\Yeferson-Soteldo,ve VEN,FW,Santos,21,1997,32,31,2697,9,5,0,0,12,1,0.30,0.17,0.47,0.30,0.47,Matches
+649,Diego Souza\Diego-Souza,br BRA,FWMF,Botafogo (RJ),33,1985,32,30,2628,7,1,3,3,7,0,0.24,0.03,0.27,0.14,0.17,Matches
+650,Igor Vinícius de Souza\Igor-Vinicius-de-Souza,br BRA,DF,São Paulo,21,1997,19,13,1192,1,2,0,0,3,2,0.08,0.15,0.23,0.08,0.23,Matches
+651,Jackson de Souza\Jackson-de-Souza,br BRA,DF,Fortaleza,28,1990,11,11,910,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+652,Jackson de Souza\Jackson-de-Souza,br BRA,DF,Bahia,28,1990,1,1,90,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+653,Maicon Souza\Maicon-Souza,br BRA,MF,Grêmio,33,1985,15,15,1171,3,3,2,2,6,0,0.23,0.23,0.46,0.08,0.31,Matches
+654,Vinicius Souza\Vinicius-Souza,br BRA,MF,Flamengo,19,1999,3,0,24,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+655,Everaldo Stum\Everaldo-Stum,br BRA,FWMF,Chapecoense,27,1991,33,33,2970,13,1,3,4,8,0,0.39,0.03,0.42,0.30,0.33,Matches
+656,Tadeu\Tadeu,br BRA,GK,Goiás,26,1992,37,37,3298,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+657,Tailson\Tailson,br BRA,FW,Santos,19,1999,11,6,507,1,0,0,0,0,0,0.18,0.00,0.18,0.18,0.18,Matches
+658,Vinicius Tanque\Vinicius-Tanque,br BRA,FW,Botafogo (RJ),23,1995,11,3,349,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+659,Diego Tardelli\Diego-Tardelli,br BRA,FWMF,Grêmio,33,1985,29,23,1955,4,1,0,1,2,1,0.18,0.05,0.23,0.18,0.23,Matches
+660,Tchê Tchê\Tche-Tche,br BRA,MF,São Paulo,26,1992,35,35,3107,1,0,0,0,7,0,0.03,0.00,0.03,0.03,0.03,Matches
+661,David Terans\David-Terans,uy URU,MF,Atlético Mineiro,24,1994,4,1,143,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+662,Thaciano\Thaciano,br BRA,MF,Grêmio,23,1995,22,13,1317,2,1,0,0,4,0,0.14,0.07,0.21,0.14,0.21,Matches
+663,Thalles\Thalles,br BRA,MF,Goiás,21,1998,10,6,634,1,1,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches
+664,Tharlis\Tharlis,br BRA,MF,Chapecoense,21,1998,4,3,234,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+665,Thuler\Thuler,br BRA,DF,Flamengo,19,1999,13,10,1038,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+666,Tiepo\Tiepo,br BRA,GK,Chapecoense,20,1998,26,25,2250,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+667,Guilherme Tinga\Guilherme-Tinga,br BRA,DF,Fortaleza,25,1993,23,19,1820,4,2,0,0,0,0,0.20,0.10,0.30,0.20,0.30,Matches
+668,Régis Tosatti\Regis-Tosatti,br BRA,MF,Chapecoense,21,1998,15,8,625,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+669,Miguel Trauco\Miguel-Trauco,pe PER,DF,Flamengo,26,1992,5,5,450,0,1,0,0,2,0,0.00,0.20,0.20,0.00,0.20,Matches
+670,Santiago Tréllez\Santiago-Trellez,co COL,FW,Internacional,29,1990,4,4,297,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+671,Filipe Trindade\Filipe-Trindade,br BRA,MF,Goiás,19,1999,2,0,43,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+672,Uendel\Uendel,br BRA,DF,Internacional,30,1988,20,19,1667,0,2,0,0,3,0,0.00,0.11,0.11,0.00,0.11,Matches
+673,Fernando Uribe\Fernando-Uribe,co COL,FW,Santos,31,1988,11,5,416,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+674,Júnior Urso\Junior-Urso,br BRA,MF,Corinthians,29,1989,27,26,2135,3,0,0,0,4,0,0.13,0.00,0.13,0.13,0.13,Matches
+675,Valdívia\Valdivia,br BRA,FW,Vasco da Gama,24,1994,12,3,430,0,1,0,0,0,0,0.00,0.21,0.21,0.00,0.21,Matches
+676,Valdo\Valdo,br BRA,DF,Ceará,26,1992,30,28,2512,0,1,0,0,6,0,0.00,0.04,0.04,0.00,0.04,Matches
+677,Leonardo Valencia\Leonardo-Valencia,cl CHI,MF,Botafogo (RJ),27,1991,21,9,941,1,1,0,0,2,0,0.10,0.10,0.19,0.10,0.19,Matches
+678,Vanderlei\Vanderlei,br BRA,GK,Santos,35,1984,6,6,540,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+679,Matheus de Vargas\Matheus-de-Vargas,br BRA,MF,Fortaleza,22,1996,2,1,91,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+680,Rafael Vaz\Rafael-Vaz,br BRA,DF,Goiás,30,1988,32,30,2789,5,1,0,0,2,0,0.16,0.03,0.19,0.16,0.19,Matches
+681,Mariano Vázquez\Mariano-Vazquez,ar ARG,MF,Fortaleza,26,1992,6,3,288,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+682,Raphael Veiga\Raphael-Veiga,br BRA,MF,Palmeiras,23,1995,19,8,773,3,1,1,1,1,0,0.35,0.12,0.47,0.23,0.35,Matches
+683,Lucas Venuto\Lucas-Venuto,br BRA,FWMF,Santos,24,1995,4,0,50,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+684,Lucas Veríssimo\Lucas-Verissimo,br BRA,DF,Santos,23,1995,33,33,2885,2,1,0,0,11,2,0.06,0.03,0.09,0.06,0.09,Matches
+685,Veron\Veron,br BRA,FW,Palmeiras,16,2002,3,0,70,2,1,0,0,0,0,2.57,1.29,3.86,2.57,3.86,Matches
+686,Paulo Victor Vidotti\Paulo-Victor-Vidotti,br BRA,GK,Grêmio,32,1987,28,28,2520,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+687,Bruno Vieira\Bruno-Vieira,br BRA,DF,Internacional,33,1985,8,6,464,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+688,Luan Vieira\Luan-Vieira,br BRA,MF,Grêmio,25,1993,20,15,1318,4,6,0,0,0,0,0.27,0.41,0.68,0.27,0.68,Matches
+689,Vinícius\Vinicius,br BRA,FW,Goiás,19,1999,5,0,54,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+690,Vinícius\Vinicius,br BRA,MF,Atlético Mineiro,27,1991,24,13,1231,2,2,0,0,4,1,0.15,0.15,0.29,0.15,0.29,Matches
+691,Caio Vinícius\Caio-Vinicius,br BRA,MF,Fluminense,20,1999,1,0,21,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+692,Marcos Vinícius\Marcos-Vinicius,br BRA,MF,Botafogo (RJ),24,1994,5,1,107,1,0,0,0,0,0,0.84,0.00,0.84,0.84,0.84,Matches
+693,Mateus Vital\Mateus-Vital,br BRA,MF,Corinthians,20,1998,31,21,1967,2,2,0,0,1,0,0.09,0.09,0.18,0.09,0.18,Matches
+694,Vitinho\Vitinho,br BRA,MF,Flamengo,25,1993,25,12,1160,5,3,0,0,3,0,0.39,0.23,0.62,0.39,0.62,Matches
+695,João Vitor\Joao-Vitor,br BRA,MF,CSA,30,1988,20,20,1700,0,0,0,0,9,2,0.00,0.00,0.00,0.00,0.00,Matches
+696,Felipe Vizeu\Felipe-Vizeu,br BRA,FW,Grêmio,21,1997,11,4,386,1,0,0,0,0,0,0.23,0.00,0.23,0.23,0.23,Matches
+697,Vladimir\Vladimir,br BRA,GK,Avaí,29,1989,34,34,3015,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+698,Tiago Volpi\Tiago-Volpi,br BRA,GK,São Paulo,28,1990,37,37,3330,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+699,Walter\Walter,br BRA,GK,Corinthians,31,1987,6,6,540,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+700,Wanderson\Wanderson,br BRA,DF,Bahia,27,1991,7,5,486,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+701,Adílson Warken\Adilson-Warken,br BRA,MF,Atlético Mineiro,32,1987,5,4,364,1,0,0,0,1,0,0.25,0.00,0.25,0.25,0.25,Matches
+702,Warley\Warley,br BRA,MFDF,CSA,19,1999,13,7,676,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+703,Welinton\Welinton,br BRA,FW,Cruzeiro,19,1999,1,0,20,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+704,José Welison\Jose-Welison,br BRA,MF,Atlético Mineiro,23,1995,18,14,1333,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+705,Wenderson\Wenderson,br BRA,MF,Botafogo (RJ),20,1998,4,2,165,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+706,Werley\Werley,br BRA,DF,Vasco da Gama,30,1988,8,7,669,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+707,Wescley\Wescley,br BRA,MF,Ceará,27,1991,15,3,416,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+708,Wesley\Wesley,br BRA,MF,Avaí,20,1998,10,7,514,0,0,0,0,1,1,0.00,0.00,0.00,0.00,0.00,Matches
+709,Wéverton\Weverton,br BRA,GK,Palmeiras,31,1987,31,31,2790,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00,Matches
+710,Weverton\Weverton,br BRA,DF,Cruzeiro,19,1999,5,3,336,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+711,Willian\Willian,br BRA,MF,Palmeiras,32,1986,22,11,1133,4,1,0,0,3,1,0.32,0.08,0.40,0.32,0.40,Matches
+712,Wilson\Wilson,br BRA,GK,Atlético Mineiro,35,1984,3,3,270,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,Matches
+713,Cláudio Winck\Claudio-Winck,br BRA,DF,Vasco da Gama,24,1994,2,2,180,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00,Matches
+714,Samuel Xavier\Samuel-Xavier,br BRA,DF,Ceará,28,1990,33,33,2956,0,3,0,0,10,1,0.00,0.09,0.09,0.00,0.09,Matches
+715,Yago\Yago,br BRA,MF,Goiás,23,1995,31,25,2220,2,2,0,0,5,1,0.08,0.08,0.16,0.08,0.16,Matches
+716,Yago\Yago,br BRA,DF,Goiás,26,1992,13,13,1170,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00,Matches
+717,Yuri\Yuri,br BRA,DF,Botafogo (RJ),23,1996,17,11,1082,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00,Matches
+718,Zeca\Zeca,br BRA,DF,Internacional,24,1994,20,19,1700,0,1,0,0,4,0,0.00,0.05,0.05,0.00,0.05,Matches

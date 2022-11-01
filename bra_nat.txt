@@ -1,0 +1,14 @@
+Rk,Nation,# Players,Min,List
+1,br Brazil,754,673958,Gabriel Barbosa Bruno Henrique Dudu Eduardo Sasha Michael Everaldo Stum Bruno Henrique Gilberto Wellington Paulista Thiago Galhardo ...
+2,ar Argentina,19,20358,Víctor Cuesta Jonathan David Gómez Joel Carli Mauro Boselli Marco Ruben Andrés D'Alessandro Franco Di Santo Walter Kannemann Braian Romero Martín Sarrafiore ...
+3,co Colombia,17,16999,Yony González Juan Quintero Oswaldo Henríquez Luis Manuel Orejuela Yimmi Chará Felipe Aguilar Fredy Guarín Orlando Berrío Gustavo Cuellar Miguel Borja ...
+4,py Paraguay,11,11525,Gatito Fernández Richard Franco Gustavo Gómez Héctor Bustamante Robert Piris Da Motta Derlis González Ramón Martínez Raúl Cáceres Feliciano Brizuela Rodolfo Gamarra ...
+5,uy Uruguay,9,9849,Carlos Sánchez Giorgian De Arrascaeta Leandro Barcia Nicolás López Bruno Méndez Lucas Hernández David Terans Jonatan Álvez Santiago Romero
+6,pe Peru,4,2612,Paolo Guerrero Miguel Trauco Christian Cueva Nilson Loyola
+7,ec Ecuador,3,5693,Robert Arboleda Juan Cazares Junior Sornoza
+8,ve Venezuela,3,4663,Yeferson Soteldo Rómulo Otero Alejandro Guerra
+9,es Spain,2,3142,Pablo Marí Juanfran
+10,cl Chile,2,941,Leonardo Valencia Ángelo Araos
+11,tl East Timor,1,351,Patrick Fabiano
+12,cm Cameroon,1,131,Diederrick Joel
+13,us United States,1,15,Johnny Cardoso

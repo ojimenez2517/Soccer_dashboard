@@ -1,0 +1,21 @@
+Rk,Squad,MP,W,D,L,GF,GA,GDiff,Pts,Attendance,Top Team Scorer,Goalkeeper,Notes
+1,Flamengo,38,28,6,4,86,37,+49,90,58809,Gabriel Barbosa - 24,Diego Alves,
+2,Santos,38,22,8,8,60,33,+27,74,10388,Eduardo Sasha - 14,Éverson,→ Copa Libertadores via league finish
+3,Palmeiras,38,21,11,6,61,32,+29,74,28413,Bruno Henrique - 10,Wéverton,→ Copa Libertadores via league finish
+4,Grêmio,38,19,8,11,64,39,+25,65,16751,Everton Soares - 11,Paulo Victor Vidotti,→ Copa Libertadores via league finish
+5,Atl Paranaense,38,18,10,10,51,32,+19,64,15449,Marcelo Cirino - 9,Santos,
+6,São Paulo,38,17,12,9,39,30,+9,63,29624,Vitor Bueno - 6,Tiago Volpi,→ Copa Libertadores via league finish
+7,Internacional,38,16,9,13,44,39,+5,57,20651,Paolo Guerrero - 10,Marcelo Lomba,→ Copa Libertadores via league finish
+8,Corinthians,38,14,14,10,42,34,+8,56,32894,Mauro Boselli - 7,Cássio,→ Copa Libertadores via league finish
+9,Fortaleza,38,15,8,15,50,49,+1,53,33661,Wellington Paulista - 13,Felipe Alves Raymundo,→ Copa Sudamericana via league finish
+10,Goiás,38,15,7,16,46,64,-18,52,14935,Rafael Moura Michael - 9,Tadeu,→ Copa Sudamericana via league finish
+11,Bahia,38,12,13,13,44,43,+1,49,26674,Gilberto - 14,Douglas Friedrich,→ Copa Sudamericana via league finish
+12,Vasco da Gama,38,12,13,13,39,45,-6,49,21092,Yago Pikachu - 5,Fernando Miguel,→ Copa Sudamericana via league finish
+13,Atlético Mineiro,38,13,9,16,45,49,-4,48,19044,Juan Cazares - 6,Cleiton Schwengber,→ Copa Sudamericana via league finish
+14,Fluminense,38,12,10,16,38,46,-8,46,21483,Yony González - 6,Muriel Becker,→ Copa Sudamericana via league finish
+15,Botafogo (RJ),38,13,4,21,31,45,-14,43,17425,Diego Souza - 7,Gatito Fernández,
+16,Ceará,38,10,9,19,36,41,-5,39,26742,Thiago Galhardo - 12,Diogo Silva,
+17,Cruzeiro,38,7,15,16,27,46,-19,36,27049,Thiago Neves - 6,Fábio,Relegated
+18,CSA,38,8,8,22,24,58,-34,32,12015,Jonathan David Gómez - 5,Jordi Almeida,Relegated
+19,Chapecoense,38,7,11,20,31,52,-21,32,7430,Everaldo Stum - 13,Tiepo,Relegated
+20,Avaí,38,3,11,24,18,62,-44,20,8338,João Paulo - 5,Vladimir,Relegated

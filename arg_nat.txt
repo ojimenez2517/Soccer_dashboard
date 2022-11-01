@@ -1,0 +1,16 @@
+Rk,Nation,# Players,Min,List
+1,ar Argentina,738,538019,Lisandro López Luis Miguel Rodríguez Gabriel Carabajal Matías Vargas Nicolás Fernández Franco Fragapane Lucas Gamba Federico González Darío Cvitanich Mauro Zárate ...
+2,uy Uruguay,46,36370,Diego Zabala Santiago García Leonardo Burián Santiago Silva Martín Campaña Jonathan Sandoval Washington Camacho Junior Arias Mathías Abero Sebastián Ribas ...
+3,py Paraguay,33,27993,Matías Rojas Diego Viera Saúl Salcedo Pablo Palacios Alvarenga Marcelo Estigarribia Néstor Ortigoza Rolando García Gabriel Ávalos Adrián Cubas Víctor Ayala ...
+4,co Colombia,31,18109,Yeimar Gómez Andrade Iván Arboleda Rafael Borré Juan Quintero Andrés Roa Sebastián Villa Edwin Cardona Mauricio Cuero Óscar Cabezas Dayro Moreno ...
+5,cl Chile,11,9729,Alfonso Parot Eugenio Mena Gabriel Arias Pablo Hernández Marcelo Díaz Gonzalo Jara Francisco Silva Pablo Galdames Millán Marcelo Larrondo Fernando Cordero ...
+6,ve Venezuela,4,1191,Jan Carlos Hurtado Samuel Sosa Jesús Vargas Anthony Uribe
+7,pe Peru,3,2772,Luis Abram Miguel Araujo Alexi Gómez
+8,ec Ecuador,2,2357,Fernando Gaibor Alexander Domínguez
+9,am Armenia,2,776,Norberto Briasco Mauro Guevgeozián
+10,it Italy,2,695,Augusto Lotti David Ojeda
+11,us United States,2,650,Joel Soñora Matko Miljevic
+12,st São Tomé and Príncipe,1,1207,Luís Leal
+13,ch Switzerland,1,810,Dylan Gissi
+14,br Brazil,1,293,Tiago Pagnussat
+15,gw Guinea-Bissau,1,20,Zé Turbo
